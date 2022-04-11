@@ -430,7 +430,7 @@ pps:别琢磨自动续期了，上一个就是被自动续期搞没的！！！�
 
 24小时在线一个IP挂一个月720积分，2美元左右
 
-#### spider
+### spider
 
 支持：win系统，剩下的后续会支持
 
@@ -438,7 +438,7 @@ pps:别琢磨自动续期了，上一个就是被自动续期搞没的！！！�
 
 链接：https://income.spider.dev/r/l2461v26vw
 
-#### traffmonetizer
+### traffmonetizer
 
 支持：win和macos系统，其他系统后续支持
 
