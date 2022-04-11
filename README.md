@@ -15,6 +15,8 @@
     * [硬核挂机项目合集](#挂机项目合集)
         * [peer2profit刷闲置流量](#peer2profit)
         * [跑挂机刷语音](#跑挂机刷语音)
+        * [spider](#spider)
+        * [traffmonetizer](#traffmonetizer)
         * [跑流量提供测试IP](#跑流量提供测试IP)
         * [跑模拟点击挂机](#跑模拟点击挂机)
         * [跑流量测试网站挂机](#跑流量测试网站挂机)
@@ -427,6 +429,22 @@ pps:别琢磨自动续期了，上一个就是被自动续期搞没的！！！�
 链接：https://RadioEarn.com/?ref=529174
 
 24小时在线一个IP挂一个月720积分，2美元左右
+
+#### spider
+
+支持：win系统，剩下的后续会支持
+
+可挂服务器。
+
+链接：https://income.spider.dev/r/l2461v26vw
+
+#### traffmonetizer
+
+支持：win和macos系统，其他系统后续支持
+
+可挂服务器。
+
+链接：https://traffmonetizer.com/?aff=96902
 
 ### 跑流量提供测试IP
 
