@@ -1099,11 +1099,6 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 游戏脚本目前已知的有 炉石传说，守望先锋，王者荣耀  
 
-# 欢迎请站主喝一杯
-
-![](https://cdn.jsdelivr.net/gh/spiritLHL/tuchuang@master/zz.jpg)
-
-
 # 免责声明
 
 * 本仓库仅供学习
