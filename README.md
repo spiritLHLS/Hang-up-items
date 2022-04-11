@@ -1,6 +1,6 @@
 # 个人收集的一些资源
 
-原始账号被GIthub扬了，这是新号。(NO政治言论NO在GitHub上给别人提issues)
+原始账号被GIthub扬了，这是新号。(本仓库NO政治言论NO在GitHub上给别人提issues)
 
 # 资源目录
 
