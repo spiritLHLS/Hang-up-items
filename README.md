@@ -120,9 +120,15 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 顺序从上到下，优惠力度逐渐变小
 
-#### 40元一年，200元3年2核2G，仅限新用户
+### 虎年活动，新老同享
 
-https://cloud.tencent.com/act/cps/redirect?redirect=35633&cps_key=c57aeee1ac0c5493f6718c40421affcf
+5年330 40GB SSD盘 300GB月流量 4M带宽
+
+5年440 60GB SSD盘 1000GB月流量 6M带宽
+
+https://curl.qcloud.com/Riwum26U
+
+#### 40元一年，200元3年2核2G，仅限新用户
 
 https://curl.qcloud.com/tPrMnfZm
 
