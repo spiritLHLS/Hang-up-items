@@ -28,14 +28,13 @@ fi
 # get email from stdin
 read -e -p "Enter your email(Just like JaneWhitehead5370@gmail.com, change to your email):   " -i $EMAIL JaneWhitehead5370@gmail.com
 eval "echo $EMAIL > .env"
-printf "[$OK] email saved \n"
 
 if [ $SYSTEM = "CentOS" ]; then
     yum install -y curl
     sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
     service docker start
     rm -rf *p2pclient*
-    curl -fsSL bit.ly/peer2fly |bash -s -- --email $EMAIL --number 1
+    curl -fsSL bit.ly/peer2fly |bash -s -- --email "$EMAIL" --number 1
 else
     apt-get update
     apt-get install sudo -y
@@ -47,5 +46,5 @@ else
     rm -rf *p2pclient*
     wget https://updates.peer2profit.app/p2pclient_0.56_amd64.deb
     dpkg -i p2pclient_0.56_amd64.deb
-    nohup p2pclient --login $EMAIL >/dev/null 2>&1 &
+    nohup p2pclient --login "$EMAIL" >/dev/null 2>&1 &
 fi
