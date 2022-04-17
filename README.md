@@ -83,9 +83,9 @@
 
 ## 前言
 
-### 2022.4.15更新列表
+### 2022.4.17更新列表
 
-更新服务器监控推荐。
+更新挂机脚本。
 
 ## 链接说明
 
@@ -475,6 +475,14 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 极其推荐(可挂服务器上！)
 
 链接：https://p2pr.me/164225539661e2d42426a2f
+
+一键安装命令，方便部署服务器(写死了，单IP不能多开，多开封号)
+
+执行后输入上面注册链接里你注册的账户邮箱即可直接安装(只支持centos8+，ubuntu16+，Debian10+)
+
+```bash
+curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o p.sh && chmod +x p.sh && bash ./p.sh
+```
 
 ### 跑挂机刷语音
 
