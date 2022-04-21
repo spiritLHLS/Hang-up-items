@@ -83,9 +83,9 @@
 
 ## 前言
 
-### 2022.4.17更新列表
+### 2022.4.21更新列表
 
-更新挂机脚本。
+更新挂机脚本说明。
 
 ## 链接说明
 
@@ -476,7 +476,9 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 链接：https://p2pr.me/164225539661e2d42426a2f
 
-一键安装命令，方便部署服务器(写死了，单IP不能多开，多开封号)
+一键安装命令，方便部署服务器(写死了，单IP不能多开，多开封号)(收益比较低，一个IP一个月大概就0.5~1刀)
+
+国外机器可挂，国内机器挂了没用，收益低的离谱。
 
 执行后输入上面注册链接里你注册的账户邮箱即可直接安装(只支持centos8+，amd64架构的ubuntu16+，amd64架构的Debian10+)
 
@@ -488,9 +490,13 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o 
 
 支持：win系统
 
-次月15提现，1000积分起提现，支持paypal和外币卡提现
+次月15提现，5美元起提现，支持paypal和外币卡提现
 
-可挂服务器，开个浏览器挂着就行了。
+可挂服务器，开个浏览器挂着就行了。(不分国内外机，收益一样，只要你访问它网站没问题)
+
+注意！！！别一个号挂太多IP，挂多了被识别全是机器挂的就封号了！！！
+
+最多一个号挂10个IP！！！！
 
 链接：https://RadioEarn.com/?ref=529174
 
@@ -524,17 +530,19 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o 
 
 链接：https://earnapp.com/i/euellb5
 
-### 跑模拟点击挂机
+### ~~跑模拟点击挂机~~
 
-支持：Ubuntu系统的linux，win系统
+~~收益过低，且免费，不推荐了~~
 
-仓库链接如下：（已反代理加速，直接点开直连打开即可）
+~~支持：Ubuntu系统的linux，win系统~~
 
-[点我跳转链接](https://git.spiritlhl.workers.dev/spiritLHL/Alexamaster)
+~~仓库链接如下：（已反代理加速，直接点开直连打开即可）~~
 
-说明文档链接：(上面仓库也有说明文档，点上下哪个都能看到说明)
+~~[点我跳转链接](https://git.spiritlhl.workers.dev/spiritLHL/Alexamaster)~~
 
-链接：https://www.spiritlhl.top/Alexamaster/   
+~~说明文档链接：(上面仓库也有说明文档，点上下哪个都能看到说明)~~
+
+~~链接：https://www.spiritlhl.top/Alexamaster/ ~~  
 
 
 ### 跑流量挂机测试网站  
