@@ -83,9 +83,9 @@
 
 ## 前言
 
-### 2022.4.21更新列表
+### 2022.4.23更新列表
 
-更新挂机脚本说明。
+更新云函数优惠。
 
 ## 链接说明
 
@@ -151,6 +151,14 @@ nezha面板涵盖这个的主题。
 
 顺序从上到下，优惠力度逐渐变小
 
+### 腾讯云云函数服务
+
+大的：https://curl.qcloud.com/JTpfzSiU
+
+小的：https://curl.qcloud.com/vHBZDeGn
+
+云函数这年都不愁了
+
 ### 虎年活动，新老同享
 
 5年330 40GB SSD盘 300GB月流量 4M带宽
@@ -167,7 +175,9 @@ https://curl.qcloud.com/tPrMnfZm
 
 https://curl.qcloud.com/MNyiQAB1
 
-#### 35元1年1核2G1M小机子（配置看起来低，但是网速比2核4G的腾讯云就差一点点，真的不错）
+#### 华为云35元1年1核2G1M小机子（配置看起来低，但是网速比2核4G的腾讯云就差一点点，真的不错）
+
+不限流量只限带宽。
 
 https://activity.huaweicloud.com/newyear_promotion/index.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905
 
