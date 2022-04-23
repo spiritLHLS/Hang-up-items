@@ -49,5 +49,5 @@ else
     unzip p2pclient_0.59_amd64.deb.zip
     dpkg -i p2pclient_0.59_amd64.deb
     rm -rf p2pclient_0.59_amd64.deb.zip
-    nohup p2pclient --login "$EMAIL" >/dev/null 2>&1 &
+    nohup p2pclient -l "$EMAIL" -n ';8.8.8.8' 2>1 &
 fi
