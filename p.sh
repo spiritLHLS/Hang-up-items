@@ -39,12 +39,15 @@ else
     apt-get update
     apt-get install sudo -y
     apt-get install curl -y
+    apt-get install unzip -y
     apt-get install apt-transport-https ca-certificates gnupg lsb-release -y
     curl -fsSL https://download.docker.com/linux/debian/gpg -y | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg -y
     echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/debian $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
     apt-get install docker-ce docker-ce-cli containerd.io -y
     rm -rf *p2pclient*
-    wget https://updates.peer2profit.app/p2pclient_0.56_amd64.deb
-    dpkg -i p2pclient_0.56_amd64.deb
+    wget https://updates.peer2profit.app/p2pclient_0.59_amd64.deb.zip
+    unzip p2pclient_0.59_amd64.deb.zip
+    dpkg -i p2pclient_0.59_amd64.deb
+    rm -rf p2pclient_0.59_amd64.deb.zip
     nohup p2pclient --login "$EMAIL" >/dev/null 2>&1 &
 fi
