@@ -44,6 +44,7 @@ else
     curl -fsSL https://download.docker.com/linux/debian/gpg -y | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg -y
     echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/debian $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
     apt-get install docker-ce docker-ce-cli containerd.io -y
+    sudo dpkg -P p2pclient
     rm -rf *p2pclient*
     wget https://updates.peer2profit.app/p2pclient_0.59_amd64.deb.zip
     unzip p2pclient_0.59_amd64.deb.zip
