@@ -26,7 +26,7 @@ if [ -f ".env" ]; then
     EMAIL=`cat .env | xargs`
 fi
 # get email from stdin
-read -e -p "Enter your email(Just like JaneWhitehead5370@gmail.com, change to your email):   " -i $EMAIL JaneWhitehead5370@gmail.com
+read -e -p "Enter your email(Just like JaneWhitehead5370@gmail.com, change to your email):   " -i EMAIL JaneWhitehead5370@gmail.com
 eval "echo $EMAIL > .env"
 
 if [ $SYSTEM = "CentOS" ]; then
