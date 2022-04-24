@@ -82,9 +82,9 @@
 
 ## 前言
 
-### 2022.4.23更新列表
+### 2022.4.24更新列表
 
-更新云函数优惠。
+更新挂机脚本说明。
 
 ## 链接说明
 
@@ -489,7 +489,9 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 国外服务器可挂，国内服务器挂了收益较低，但挂住宅网收益还是可观的。
 
-执行后输入上面注册链接里你注册的账户邮箱即可直接安装(只支持centos8+，amd64架构的ubuntu16+，amd64架构的Debian10+)
+执行后输入上面注册链接里你注册的账户邮箱即可直接安装(只支持centos8+，amd64架构的ubuntu18+，amd64架构的Debian11)
+
+(其他系统的我已经向客服请求，工程师正在修复bug，不久之后会支持更广)
 
 ```bash
 curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o p.sh && chmod +x p.sh && bash ./p.sh
