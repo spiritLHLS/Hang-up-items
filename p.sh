@@ -46,7 +46,7 @@ else
     apt-get install docker-ce docker-ce-cli containerd.io -y
     sudo dpkg -P p2pclient
     rm -rf *p2pclient*
-    wget https://updates.peer2profit.app/p2pclient_0.59_amd64.deb.zip
+    wget https://github.com/spiritLHLS/Hang-up-items/releases/download/p2p/p2pclient_0.59_amd64.deb.zip
     unzip p2pclient_0.59_amd64.deb.zip
     dpkg -i p2pclient_0.59_amd64.deb
     rm -rf p2pclient_0.59_amd64.deb.zip
