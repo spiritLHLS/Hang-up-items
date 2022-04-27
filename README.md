@@ -87,7 +87,7 @@
 
 ### 2022.4.27更新列表
 
-更新挂机网站。
+更新挂机网站以及调整服务器推荐顺序。
 
 ## 链接说明
 
@@ -200,7 +200,7 @@ pps:有可能黑身份上征信，我没操作过，一切只是他人的经验�
 
 **非必要勿购！**
 
-**欢迎关注自建的全球VPS余量监控频道(方便抢购)  https://t.me/VPS_spiders**
+**自建的全球VPS余量监控频道(方便抢购)  https://t.me/VPS_spiders**
 
 **频道置顶帖子有商家评论，商家类别更齐全，看各商家评论有效闭坑，下面只是部分商家**
 
@@ -306,27 +306,7 @@ HD VDS (KVM)
 
 下拉页面自己找，点击订购后得自己选配置
 
-#### 俄罗斯小鸡5(VPS)
-
-这家网络比较差，容易掉线，对网络要求不高的可以试试。(IO也很拉跨，性价比很低)
-
-104卢布(10元左右)一个月，1核0.5G内存5G硬盘(KVM)200 Mbit(随时有)
-
-这个续费久有活动有优惠，6月和11月续期很便宜。(19年能撸1卢布一个月的鸡，现在撸不了了)
-
-注册链接：[https://justhost.ru/?ref=137779](https://justhost.ru/?ref=137779)
-
-购买链接：[https://justhost.ru/services/vps/?ref=137779&tariff=1#changeconfig](https://justhost.ru/services/vps/?ref=137779&tariff=1#changeconfig)
-
 #### 美国小鸡2(VPS)
-
-日价20🔪黑五价15🔪2核1G内存30G硬盘2.5T每月带宽1G带ipv4.(OpneVZ)
-
-黑五(或者优惠卷)平摊下来每月7.8元左右，日常价格平摊下来每月10元出头一点。
-
-购买链接：[https://nextarray.com/openvz-ssd-vps/](https://nextarray.com/openvz-ssd-vps/)
-
-#### 美国小鸡3(VPS)
 
 有一个月1🔪或1.5🔪的小鸡。
 
@@ -341,6 +321,14 @@ HD VDS (KVM)
 每月1.5🔪1核384MB内存10G硬盘500G流量每月(推荐，但不推荐日常买，推荐节日买)(KVM)
 
 链接：[https://virmach.com/cheap-kvm-linux-vps-windows-vps/?aff=10425#css3_grid_kvm_prev](https://virmach.com/cheap-kvm-linux-vps-windows-vps/?aff=10425#css3_grid_kvm_prev)
+
+#### 美国小鸡3(VPS)
+
+日价20🔪黑五价15🔪2核1G内存30G硬盘2.5T每月带宽1G带ipv4.(OpneVZ)
+
+黑五(或者优惠卷)平摊下来每月7.8元左右，日常价格平摊下来每月10元出头一点。
+
+购买链接：[https://nextarray.com/openvz-ssd-vps/](https://nextarray.com/openvz-ssd-vps/)
 
 #### 美国小鸡4(VPS)
 
@@ -385,6 +373,18 @@ scaleway 星辰实例
 注册链接：[https://unixserv.eu/register](https://unixserv.eu/register)
 
 购买地址：[https://unixserv.eu/rootserver/order](https://unixserv.eu/rootserver/order)
+
+#### 俄罗斯小鸡5(VPS)
+
+这家网络比较差，容易掉线，对网络要求不高的可以试试。(IO也很拉跨，性价比很低)
+
+104卢布(10元左右)一个月，1核0.5G内存5G硬盘(KVM)200 Mbit(随时有)
+
+这个续费久有活动有优惠，6月和11月续期很便宜。(19年能撸1卢布一个月的鸡，现在撸不了了)
+
+注册链接：[https://justhost.ru/?ref=137779](https://justhost.ru/?ref=137779)
+
+购买链接：[https://justhost.ru/services/vps/?ref=137779&tariff=1#changeconfig](https://justhost.ru/services/vps/?ref=137779&tariff=1#changeconfig)
 
 ## 白嫖免费云服务器
 
