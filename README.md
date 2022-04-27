@@ -18,6 +18,8 @@
         * [peer2profit刷闲置流量](#peer2profit)
         * [spider](#spider)
         * [traffmonetizer](#traffmonetizer)
+        * [surfe1](#surfe1)
+        * [surfe2](#surfe2)
         * [跑流量提供测试IP](#跑流量提供测试IP)
         * [跑模拟点击挂机](#跑模拟点击挂机)
         * [跑流量测试网站挂机](#跑流量测试网站挂机)
@@ -83,9 +85,9 @@
 
 ## 前言
 
-### 2022.4.26更新列表
+### 2022.4.27更新列表
 
-更新站点统计。
+更新挂机网站。
 
 ## 链接说明
 
@@ -541,6 +543,26 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o 
 可挂服务器。
 
 链接：https://traffmonetizer.com/?aff=96902
+
+### surfe1
+
+支持：win和macos系统
+
+支持payeer提现。
+
+可挂服务器。
+
+链接：https://surfe.app/?refid=98
+
+### surfe2
+
+支持：win和macos系统
+
+支持外币卡，payeer，paypal，payoneer，webmoney，skrill，BTC.
+
+可挂服务器。
+
+链接：https://surfe.be/ext/1842025 
 
 ### 跑流量提供测试IP
 
