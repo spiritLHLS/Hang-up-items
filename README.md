@@ -169,7 +169,7 @@ nezha面板涵盖这个的主题。
 
 https://curl.qcloud.com/Riwum26U
 
-#### 40元一年，200元3年2核2G，仅限新用户
+#### 58元一年，200元3年2核2G，仅限新用户
 
 https://curl.qcloud.com/tPrMnfZm
 
@@ -177,7 +177,7 @@ https://curl.qcloud.com/tPrMnfZm
 
 https://curl.qcloud.com/MNyiQAB1
 
-#### 华为云35元1年1核2G1M小机子（配置看起来低，但是网速比2核4G的腾讯云就差一点点，真的不错）
+#### 华为云45元1年1核2G1M小机子（配置看起来低，但是网速比2核4G的腾讯云就差一点点，真的不错）
 
 不限流量只限带宽。
 
