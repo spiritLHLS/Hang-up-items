@@ -260,7 +260,7 @@ OpenVZ的机不能开tun。
 
 注册链接：[https://firstbyte.ru/?from=104762](https://firstbyte.ru/?from=104762)
 
-购买链接：[https://firstbyte.ru/vps-vds?from=104762](https://firstbyte.ru/vps-vds?from=104762)
+购买链接：[https://firstbyte.ru/vps-vds/?from=104762](https://firstbyte.ru/vps-vds/?from=104762)
 
 优惠码：refer_104762
 
