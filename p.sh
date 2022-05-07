@@ -45,10 +45,8 @@ else
     echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/debian $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
     apt-get install docker-ce docker-ce-cli containerd.io -y
     sudo dpkg -P p2pclient
-    rm -rf *p2pclient*
-    wget https://github.com/spiritLHLS/Hang-up-items/releases/download/p2p/p2pclient_0.59_amd64.deb.zip
-    unzip p2pclient_0.59_amd64.deb.zip
-    dpkg -i p2pclient_0.59_amd64.deb
-    rm -rf p2pclient_0.59_amd64.deb.zip
+    rm -rf *p2p*
+    wget https://github.com/spiritLHLS/Hang-up-items/releases/download/p2p0.60/p2p.deb
+    dpkg -i p2p.deb
     nohup p2pclient -l "$EMAIL" -n ';8.8.8.8' 2>1 &
 fi
