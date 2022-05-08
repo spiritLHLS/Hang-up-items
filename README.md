@@ -506,6 +506,10 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 (经过我的要求，官方增加了对低版本的支持，如果有bug，可以联系我，我和官方客服沟通，当然你也可以直接联系官方客服)
 
+(我还在继续反映bug，后续会支持更多系统)
+
+附上和客服聊天截图：https://s2.loli.net/2022/05/08/7Zka29CdJxsWPGQ.png
+
 ```bash
 curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o p.sh && chmod +x p.sh && bash ./p.sh
 ```
