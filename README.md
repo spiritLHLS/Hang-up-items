@@ -16,8 +16,8 @@
 * [挂机和羊毛项目(需要电脑或手机端挂机)](#挂机和薅羊毛项目)
     * [硬核挂机项目合集](#挂机项目合集)
         * [peer2profit刷闲置流量](#peer2profit)
-        * [spider](#spider)
         * [traffmonetizer](#traffmonetizer)
+        * [spider](#spider)
         * [surfe1](#surfe1)
         * [surfe2](#surfe2)
         * [跑流量提供测试IP](#跑流量提供测试IP)
@@ -85,9 +85,9 @@
 
 ## 前言
 
-### 2022.5.9更新列表
+### 2022.5.10更新列表
 
-更新挂机脚本，支持更多系统。
+更新新挂机项目的脚本，支持服务器挂机。
 
 ## 链接说明
 
@@ -492,7 +492,7 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 支持多种提现方式，外币卡或者payeer都是可以的，当然还有加密货币。
 
-极其推荐(可挂服务器上！)
+**可挂服务器上的第一推荐项目！**
 
 链接：https://p2pr.me/164225539661e2d42426a2f
 
@@ -513,6 +513,28 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 ```bash
 curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o p.sh && chmod +x p.sh && bash ./p.sh
 ```
+
+### traffmonetizer
+
+支持：win，macos，linux系统
+
+支持多种提现方式，外币卡，payeer，paypal，payoneer，webmoney，skrill，BTC.
+
+**可挂服务器的第二推荐项目！**
+
+注册链接：https://traffmonetizer.com/?aff=96902
+
+自写一键安装命令
+
+仓库：https://github.com/spiritLHLS/traffmonetizer-one-click-command-installation
+
+一键安装命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-command-installation/main/tm.sh -o tm.sh && chmod +x tm.sh && bash ./tm.sh
+```
+
+输入后只需要填写你的token即可一键安装环境和平台脚本
 
 ### ~~跑挂机刷语音~~
 
@@ -539,16 +561,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o 
 可挂服务器。
 
 链接：https://income.spider.dev/r/l2461v26vw
-
-### traffmonetizer
-
-支持：win和macos系统，其他系统后续会支持
-
-支持多种提现方式，外币卡，payeer，paypal，payoneer，webmoney，skrill，BTC.
-
-可挂服务器。
-
-链接：https://traffmonetizer.com/?aff=96902
 
 ### surfe1
 
