@@ -522,7 +522,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o 
 
 **可挂服务器的第二推荐项目！**
 
-注册链接：https://traffmonetizer.com/?aff=96902
+注册链接(获得5刀初始金)：https://traffmonetizer.com/?aff=96902
 
 自写一键安装命令
 
