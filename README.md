@@ -85,9 +85,9 @@
 
 ## 前言
 
-### 2022.5.19更新列表
+### 2022.5.25更新列表
 
-更新国内优惠推荐。
+删除过期优惠。
 
 ## 链接说明
 
@@ -161,14 +161,6 @@ nezha面板涵盖这个的主题。
 
 https://curl.qcloud.com/BGcrTXDK
 
-### 腾讯云云函数服务
-
-大的：https://curl.qcloud.com/JTpfzSiU
-
-小的：https://curl.qcloud.com/vHBZDeGn
-
-云函数1年都不愁了
-
 ### 秒杀活动，仅限新用户
 
 2核2G内存4M带宽40GBSSD硬盘 300G月流量 一年58
@@ -176,14 +168,6 @@ https://curl.qcloud.com/BGcrTXDK
 2核4G内存6M带宽60GBSSD硬盘 1000G月流量 一年168
 
 https://curl.qcloud.com/YOLrwnSF
-
-### ~~虎年活动，新老同享(活动过期)
-
-~~5年330 40GB SSD盘 300GB月流量 4M带宽
-
-~~5年440 60GB SSD盘 1000GB月流量 6M带宽
-
-~~https://curl.qcloud.com/Riwum26U
 
 #### 58元一年，200元3年2核2G，仅限新用户
 
