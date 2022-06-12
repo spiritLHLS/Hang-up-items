@@ -85,9 +85,9 @@
 
 ## 前言
 
-### 2022.5.31更新列表
+### 2022.6.12更新列表
 
-更新部分链接.
+更新狗狗助手。
 
 ## 链接说明
 
@@ -821,20 +821,20 @@ https://ctlddey.lanzoui.com/iAutpwdtu0j
 
 ### 狗狗助手
 
-2022.1.5更新
+2022.05.19更新
 
 支持：电脑，云服务器
 
 单文件版运行下载地址：
 
-如1.0.1无法打开的下载1.0.1修复版（几十M）：
-换了个编译器解决部分机器出现No module named 'PyQt5.QtWebEngineWidgets'
-https://ctlddey.lanzoul.com/iwemLye9spa
+1.0.3版本下载地址：(修复版)
+（1.0.2更新请把配置文件复制过来，否则将以全新状态运行）
+https://ctlddey.lanzoul.com/i1wCr04r7hvc
 
-可以正常打开就下载修复包（几百K，需有1.0.1解压包）：
-https://ctlddey.lanzoul.com/itNYHye97mb
+1.0.2版本下载地址：
+https://ctlddey.lanzoul.com/iv3F804ehhcf
 
-原帖链接：https://www.52pojie.cn/thread-1570658-1-1.html
+原帖链接：[https://www.52pojie.cn/thread-1570658-1-1.html](https://www.52pojie.cn/thread-1632520-1-1.html)
 
 ### 52签到助手
 
