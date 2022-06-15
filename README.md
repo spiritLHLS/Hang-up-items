@@ -18,10 +18,7 @@
         * [peer2profit刷闲置流量](#peer2profit)
         * [traffmonetizer](#traffmonetizer)
         * [spider](#spider)
-        * [surfe1](#surfe1)
-        * [surfe2](#surfe2)
         * [跑流量提供测试IP](#跑流量提供测试IP)
-        * [跑模拟点击挂机](#跑模拟点击挂机)
         * [跑流量测试网站挂机](#跑流量测试网站挂机)
         * [跑流量挂机](#跑流量挂机测试网站)
         * [跑流量刷上行](#跑流量刷上行)
@@ -29,6 +26,9 @@
         * [跑流量挂机02](#跑流量挂机2)
         * [cryptotab挖币挂机](#cryptotab)
         * [honeyminer智能挖币挂机](#honeyminer)
+        * [跑模拟点击挂机](#跑模拟点击挂机)
+        * [surfe1](#surfe1)
+        * [surfe2](#surfe2)
     * [狗东合集](#狗东合集)
         * [狗东入会脚本(每天两次)](#狗东入会脚本)
         * [狗东退会脚本](#狗东退会脚本)
@@ -490,6 +490,8 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 ## 挂机项目合集
 
+一般按照推荐性从好到坏排
+
 ### peer2profit
 
 支持全平台，这是它的优点
@@ -540,24 +542,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 输入后只需要填写你的token即可一键安装环境和平台脚本
 
-### ~~跑挂机刷语音~~
-
-网站已经停更很久了，不会付款转换了。
-
-~~支持：win系统~~
-
-~~次月15提现，5美元起提现，支持paypal和外币卡提现~~
-
-~~可挂服务器，开个浏览器挂着就行了。(不分国内外机，收益一样，只要你访问它网站没问题)~~
-
-~~注意！！！别一个号挂太多IP，挂多了被识别全是机器挂的就封号了！！！~~
-
-~~最多一个号挂10个IP！！！！~~
-
-链接：https://RadioEarn.com/?ref=529174
-
-~~24小时在线一个IP挂一个月720积分，2美元左右~~
-
 ### spider
 
 支持：win系统，其他系统后续会支持
@@ -565,26 +549,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 可挂服务器。
 
 链接：https://income.spider.dev/r/l2461v26vw
-
-### surfe1
-
-支持：win和macos系统
-
-支持payeer提现。
-
-可挂服务器。
-
-链接：https://surfe.app/?refid=98
-
-### surfe2
-
-支持：win和macos系统
-
-支持外币卡，payeer，paypal，payoneer，webmoney，skrill，BTC.
-
-可挂服务器。
-
-链接：https://surfe.be/ext/1842025 
 
 ### 跑流量提供测试IP
 
@@ -595,20 +559,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 不可挂服务器，只能挂住宅IP
 
 链接：https://earnapp.com/i/euellb5
-
-### ~~跑模拟点击挂机~~
-
-~~收益过低，且免费，不推荐了~~
-
-~~支持：Ubuntu系统的linux，win系统~~
-
-~~仓库链接如下：（已反代理加速，直接点开直连打开即可）~~
-
-~~[点我跳转链接](https://git.spiritlhl.workers.dev/spiritLHL/Alexamaster)~~
-
-~~说明文档链接：(上面仓库也有说明文档，点上下哪个都能看到说明)~~
-
-~~链接：https://www.spiritlhl.top/Alexamaster/ ~~  
 
 
 ### 跑流量挂机测试网站  
@@ -697,6 +647,58 @@ https://cryptotabbrowser.com/18839769
 新的一个平台，聊胜于无，自己感觉比不过上面那个(蜜蜂智能挖矿，自动选择币种，伤GPU和CPU)  
 
 https://honeyminer.com/referred/6dwn5
+
+### ~~跑挂机刷语音~~
+
+网站已经停更很久了，不会付款转换了。
+
+~~支持：win系统~~
+
+~~次月15提现，5美元起提现，支持paypal和外币卡提现~~
+
+~~可挂服务器，开个浏览器挂着就行了。(不分国内外机，收益一样，只要你访问它网站没问题)~~
+
+~~注意！！！别一个号挂太多IP，挂多了被识别全是机器挂的就封号了！！！~~
+
+~~最多一个号挂10个IP！！！！~~
+
+链接：https://RadioEarn.com/?ref=529174
+
+~~24小时在线一个IP挂一个月720积分，2美元左右~~
+
+### ~~跑模拟点击挂机~~
+
+~~收益过低，且免费，不推荐了~~
+
+~~支持：Ubuntu系统的linux，win系统~~
+
+~~仓库链接如下：（已反代理加速，直接点开直连打开即可）~~
+
+~~[点我跳转链接](https://git.spiritlhl.workers.dev/spiritLHL/Alexamaster)~~
+
+~~说明文档链接：(上面仓库也有说明文档，点上下哪个都能看到说明)~~
+
+~~链接：https://www.spiritlhl.top/Alexamaster/ ~~  
+
+### surfe1
+
+支持：win和macos系统
+
+支持payeer提现。
+
+可挂服务器。
+
+链接：https://surfe.app/?refid=98
+
+### surfe2
+
+支持：win和macos系统
+
+支持外币卡，payeer，paypal，payoneer，webmoney，skrill，BTC.
+
+可挂服务器。
+
+链接：https://surfe.be/ext/1842025 
 
 
 ## 狗东合集
