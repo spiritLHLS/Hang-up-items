@@ -41,21 +41,11 @@ if [ $SYSTEM = "CentOS" ]; then
     yum update
     yum install -y wget
     rm -rf *p2pclient*
-    if [ $SPP = "7" ]; then
-        curl -sSL get.docker.com | sh
-        systemctl restart docker.service
-        export P2P_EMAIL="$EMAIL"; 
-        docker rm -f peer2profit || true && docker run -d --restart always \
-                -e P2P_EMAIL=$P2P_EMAIL \
-                --name peer2profit \
-                peer2profit/peer2profit_linux:latest
-    else
-        curl -fsSL bit.ly/peer2fly |bash -s -- --email "$EMAIL" --number 1
-        sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
-        service docker start
-        rm -rf *p2pclient*
-        curl -fsSL bit.ly/peer2fly |bash -s -- --email "$EMAIL" --number 1
-    fi
+    rpm -e p2pclient
+    wget https://github.com/spiritLHLS/Hang-up-items/raw/main/p2pclient-0.61-1.el8.x86_64.rpm
+    rpm -ivh p2pclient-0.61-1.el8.x86_64.rpm
+    nohup p2pclient -l "$EMAIL" >/dev/null 2>&1 &
+    rm -rf p2pclient-0.61-1.el8.x86_64.rp
 else
     apt-get update
     apt-get install sudo -y
