@@ -111,6 +111,8 @@ Rakuten Insight网 https://www.aipsurveyschina.com/s/member
 
 yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
+looksup国外平台 https://lootup.me?refer=3699182
+
 强烈推荐lifepoints和收奖网，一个回报丰厚一个耗时最少。
 
 2022年了，目前我还在坚持使用的只有收奖网了，其他的耗时多收益低，没那时间了。
