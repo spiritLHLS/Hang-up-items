@@ -276,7 +276,7 @@ pps:有可能黑身份上征信，我没操作过，一切只是他人的经验�
 
 黑五(或者优惠卷)平摊下来每月7.8元左右，日常价格平摊下来每月10元出头一点。
 
-购买链接：[https://portal.nextarray.com/aff.php?aff=99](https://portal.nextarray.com/aff.php?aff=99)
+购买链接：[https://portal.nextarray.com/?affid=99](https://portal.nextarray.com/?affid=99)
 
 #### 美国小鸡4(VPS)
 
