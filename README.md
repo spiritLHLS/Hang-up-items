@@ -18,6 +18,7 @@
         * [peer2profit刷闲置流量](#peer2profit)
         * [traffmonetizer](#traffmonetizer)
         * [spider](#spider)
+        * [repocket](#repocket)
         * [跑流量提供测试IP](#跑流量提供测试IP)
         * [跑流量测试网站挂机](#跑流量测试网站挂机)
         * [跑流量挂机](#跑流量挂机测试网站)
@@ -85,9 +86,9 @@
 
 ## 前言
 
-### 2022.7.4更新列表
+### 2022.7.23更新列表
 
-更新挂机脚本。
+更新挂机项目。
 
 ## 链接说明
 
@@ -549,6 +550,14 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 可挂服务器。
 
 链接：https://income.spider.dev/r/l2461v26vw
+
+### repocket
+
+支持：手机端
+
+使用paypal提现，暂时测试平台测试中，后续多平台支持
+
+链接：https://link.repocket.co/FqA1
 
 ### 跑流量提供测试IP
 
