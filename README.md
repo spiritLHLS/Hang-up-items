@@ -557,7 +557,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 使用paypal提现，暂时测试平台测试中，后续多平台支持
 
-链接：https://link.repocket.co/FqA1
+链接：https://link.repocket.co/t7Pn
 
 ### 跑流量提供测试IP
 
