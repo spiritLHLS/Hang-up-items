@@ -19,6 +19,7 @@
         * [traffmonetizer](#traffmonetizer)
         * [spider](#spider)
         * [repocket](#repocket)
+        * [packity](#packity)
         * [跑流量提供测试IP](#跑流量提供测试IP)
         * [跑流量测试网站挂机](#跑流量测试网站挂机)
         * [跑流量挂机](#跑流量挂机测试网站)
@@ -86,7 +87,7 @@
 
 ## 前言
 
-### 2022.7.23更新列表
+### 2022.8.7更新列表
 
 更新挂机项目。
 
@@ -555,9 +556,17 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 支持：手机端
 
-使用paypal提现，暂时测试平台测试中，后续多平台支持
+使用paypal提现，暂时平台测试中，后续多平台支持
 
 链接：https://link.repocket.co/t7Pn
+
+### packity
+
+支持：手机端
+
+使用paypal提现，暂时平台测试中，后续多平台支持
+
+链接：https://packity.com/signup?affid=62ef6c10991658043b85dce5
 
 ### 跑流量提供测试IP
 
