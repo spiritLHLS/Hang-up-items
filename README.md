@@ -562,7 +562,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 ### packity
 
-支持：手机端
+支持：windows, mac
 
 使用paypal提现，暂时平台测试中，后续多平台支持
 
