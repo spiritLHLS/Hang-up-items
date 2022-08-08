@@ -87,9 +87,9 @@
 
 ## 前言
 
-### 2022.8.7更新列表
+### 2022.8.8更新列表
 
-更新挂机项目。
+更新问卷调查项目说明。
 
 ## 链接说明
 
@@ -99,11 +99,13 @@
 
 收奖网 http://www.sojiang.com/i.aspx?c=1-11501664
 
+looksup国外平台 https://lootup.me?refer=3699182
+
 爱调查 http://www.52survey.com/inviteFriend.mdq?ue=2006281
 
 集思吧 https://www.jisiba.com/invite?code=0evr9q
 
-lifepoints网 https://www.lifepointspanel.com/
+~~lifepoints网~~ ~~https://www.lifepointspanel.com/~~ (据反应会导致国外电话打过来，介意勿用)
 
 拼任务app端 https://www.taidu8.com/common/share/#/homeshare
 
@@ -113,9 +115,7 @@ Rakuten Insight网 https://www.aipsurveyschina.com/s/member
 
 yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
-looksup国外平台 https://lootup.me?refer=3699182
-
-强烈推荐lifepoints和收奖网，一个回报丰厚一个耗时最少。
+强烈推荐looksup和收奖网，一个回报丰厚一个耗时最少。
 
 2022年了，目前我还在坚持使用的只有收奖网了，其他的耗时多收益低，没那时间了。
 
