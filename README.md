@@ -598,6 +598,24 @@ docker ps -a
 curl -sSL get.docker.com | sh
 ```
 
+### earnapp
+
+支持全平台
+
+随时可提现，支持paypal或者亚马逊电子卡提现
+
+**可挂服务器的第五推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+链接：https://earnapp.com/i/euellb5
+
+注册后使用以下命令下载安装：
+
+```bash
+wget -qO- https://brightdata.com/static/earnapp/install.sh > /tmp/earnapp.sh && sudo bash /tmp/earnapp.sh
+```
+
+安装完毕后会出现一个浏览器链接，在 ```Open the following URL in the browser:```的下一行，其实就是完整安装后的最后一行输出的链接，你注册后复制该链接到你注册登陆成功的浏览器上打开，就链接上你的账号了(注意账号一定要提前注册或登陆好)
+
 ### spider
 
 支持：win系统，其他系统后续会支持
@@ -621,16 +639,6 @@ curl -sSL get.docker.com | sh
 使用paypal提现，暂时平台测试中，后续多平台支持
 
 链接：https://packity.com/signup?affid=62ef6c10991658043b85dce5
-
-### 跑流量提供测试IP
-
-支持全平台
-
-随时可提现，支持paypal或者亚马逊电子卡提现
-
-不可挂服务器，只能挂住宅IP
-
-链接：https://earnapp.com/i/euellb5
 
 
 ### 跑流量测试网站挂机
