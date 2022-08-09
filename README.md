@@ -18,6 +18,7 @@
         * [peer2profit刷闲置流量](#peer2profit)
         * [traffmonetizer](#traffmonetizer)
         * [iproyal](#iproyal)
+        * [packetstream](#packetstream)
         * [spider](#spider)
         * [repocket](#repocket)
         * [packity](#packity)
@@ -25,7 +26,6 @@
         * [跑流量测试网站挂机](#跑流量测试网站挂机)
         * [跑流量刷上行](#跑流量刷上行)
         * [甜糖挂机](#甜糖挂机)
-        * [跑流量挂机02](#跑流量挂机2)
         * [cryptotab挖币挂机](#cryptotab)
         * [honeyminer智能挖币挂机](#honeyminer)
         * [跑模拟点击挂机](#跑模拟点击挂机)
@@ -574,6 +574,30 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-installation/main/iproyal.sh -o iproyal.sh && chmod +x iproyal.sh && bash iproyal.sh -m 你的邮箱 -p 你的密码
 ```
 
+### packetstream
+
+支持：win，linux
+
+提现到paypal
+
+**可挂服务器的第四推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+链接：https://packetstream.io/?psr=2G9p
+
+注册后在下载选项中选择linux，复制所有代码执行即可
+
+测试有没有安装过docker
+
+```bash
+docker ps -a
+```
+
+事先如果没安装过docker，执行会报错，使用以下命令安装docker后再执行你上面复制的命令，安装过docker上述命令没抱错就不必使用下面的命令了
+
+```bash
+curl -sSL get.docker.com | sh
+```
+
 ### spider
 
 支持：win系统，其他系统后续会支持
@@ -651,18 +675,6 @@ https://r.honeygain.me/24610E80CD
 收益看需求，看地区，个人实测和上面的刷上行的收益不相上下
 
 链接：https://www.tiptime.cn/
-
-### 跑流量挂机2
-
-提现需要paypal账号
-
-支持：真实ip的电脑
-
-提现到paypal
-
-个人实测意义不大，除非机子在海外，国内不建议挂
-
-链接：https://packetstream.io/?psr=2G9p
 
 ### cryptotab
 
