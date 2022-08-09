@@ -17,12 +17,12 @@
     * [硬核挂机项目合集](#挂机项目合集)
         * [peer2profit刷闲置流量](#peer2profit)
         * [traffmonetizer](#traffmonetizer)
+        * [iproyal](#iproyal)
         * [spider](#spider)
         * [repocket](#repocket)
         * [packity](#packity)
         * [跑流量提供测试IP](#跑流量提供测试IP)
         * [跑流量测试网站挂机](#跑流量测试网站挂机)
-        * [跑流量挂机](#跑流量挂机测试网站)
         * [跑流量刷上行](#跑流量刷上行)
         * [甜糖挂机](#甜糖挂机)
         * [跑流量挂机02](#跑流量挂机2)
@@ -504,7 +504,9 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 **可挂服务器上的第一推荐项目！**
 
-链接：https://p2pr.me/164225539661e2d42426a2f
+链接：https://p2pr.me/164225539661e2d42426a2f 
+
+如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
 
 一键安装命令，方便部署服务器(写死了，单IP不能多开，多开封号)(收益比较低，一个IP一个月大概就0.1~0.0.25刀，个人实验38天0.21刀)
 
@@ -518,8 +520,12 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 附上和客服聊天截图：https://s2.loli.net/2022/05/08/7Zka29CdJxsWPGQ.png
 
+自写一键安装脚本仓库：https://github.com/spiritLHLS/peer2profit-one-click-command-installation/blob/main/README_zh.md
+
+一键安装命令：
+
 ```bash
-curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o p.sh && chmod +x p.sh && bash ./p.sh
+curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-command-installation/main/p.sh -o p.sh && chmod +x p.sh && bash p.sh -m 你的邮箱
 ```
 
 ### traffmonetizer
@@ -532,17 +538,41 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/Hang-up-items/main/p.sh -o 
 
 注册链接(获得5刀初始金)：https://traffmonetizer.com/?aff=247346
 
-自写一键安装命令
+在这里注册后修改下面一键命令最后的token即可一键安装
 
-仓库：https://github.com/spiritLHLS/traffmonetizer-one-click-command-installation
+自写一键安装脚本仓库：https://github.com/spiritLHLS/traffmonetizer-one-click-command-installation/blob/main/README_zh.md
 
 一键安装命令：
 
 ```
-curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-command-installation/main/tm.sh -o tm.sh && chmod +x tm.sh && bash ./tm.sh
+curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-command-installation/main/tm.sh -o tm.sh && chmod +x tm.sh && bash ./tm.sh -t ViRrn6FZQsfgmE9pjmyAPsEM7UD6epqMb4zcJ3WtQYk=
 ```
 
 输入后只需要填写你的token即可一键安装环境和平台脚本
+
+### iproyal
+
+支持：win，linux
+
+支持提现方式：paypal
+
+**可挂服务器的第三推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+注册链接(获得1刀初始金)：https://iproyal.com/pawns?r=97082
+
+如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
+
+（用了一天0.05美元，我这网延迟和带宽不行，如果延迟和带宽好一点的网估计比上面那个收益高一点，不能用梯子挂，裸挂真实ip）  
+
+家中的电脑等个人设备肯定可以挂。
+
+自写一键脚本仓库：https://github.com/spiritLHLS/iproyal-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-installation/main/iproyal.sh -o iproyal.sh && chmod +x iproyal.sh && bash iproyal.sh -m 你的邮箱 -p 你的密码
+```
 
 ### spider
 
@@ -577,27 +607,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 不可挂服务器，只能挂住宅IP
 
 链接：https://earnapp.com/i/euellb5
-
-
-### 跑流量挂机测试网站  
-
-支持：电脑    
-
-iproyal消耗流量挂机(类似上面那个，缺点是注册的时候得挂梯子才能显示谷歌人机验证，使用paypal付款给你，1美元提现，这个是优点)
-
-（用了一天0.05美元，我这网延迟和带宽不行，如果延迟和带宽好一点的网估计比上面那个收益高一点，不能用梯子挂，裸挂真实ip）  
-
-（这个不能挂云服务器，云服务器的ip是CDN分发还是什么的，不是固定IP没法挂）
-
-自写一键脚本仓库：https://github.com/spiritLHLS/iproyal-one-click-command-installation/blob/main/README_zh.md
-
-一键命令：
-
-```
-curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-installation/main/iproyal.sh -o iproyal.sh && chmod +x iproyal.sh && bash iproyal.sh -m 你的邮箱 -p 你的密码
-```
-  
-https://iproyal.com/pawns?r=97082   在这里注册后修改上面的邮箱密码即可一键安装
 
 
 ### 跑流量测试网站挂机
