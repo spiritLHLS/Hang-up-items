@@ -19,10 +19,10 @@
         * [traffmonetizer](#traffmonetizer)
         * [iproyal](#iproyal)
         * [packetstream](#packetstream)
+        * [earnapp](#earnapp)
         * [spider](#spider)
         * [repocket](#repocket)
         * [packity](#packity)
-        * [跑流量提供测试IP](#跑流量提供测试IP)
         * [跑流量测试网站挂机](#跑流量测试网站挂机)
         * [跑流量刷上行](#跑流量刷上行)
         * [甜糖挂机](#甜糖挂机)
@@ -89,7 +89,7 @@
 
 ### 2022.8.9更新列表
 
-更新挂机脚本仓库。
+更新挂机脚本，挂机项目，以及操作步骤说明等。
 
 ## 链接说明
 
