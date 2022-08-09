@@ -87,9 +87,9 @@
 
 ## 前言
 
-### 2022.8.8更新列表
+### 2022.8.9更新列表
 
-更新问卷调查项目说明。
+更新挂机脚本仓库。
 
 ## 链接说明
 
@@ -588,8 +588,16 @@ iproyal消耗流量挂机(类似上面那个，缺点是注册的时候得挂梯
 （用了一天0.05美元，我这网延迟和带宽不行，如果延迟和带宽好一点的网估计比上面那个收益高一点，不能用梯子挂，裸挂真实ip）  
 
 （这个不能挂云服务器，云服务器的ip是CDN分发还是什么的，不是固定IP没法挂）
+
+自写一键脚本仓库：https://github.com/spiritLHLS/iproyal-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-installation/main/iproyal.sh -o iproyal.sh && chmod +x iproyal.sh && bash iproyal.sh -m 你的邮箱 -p 你的密码
+```
   
-https://iproyal.com/pawns?r=97082   
+https://iproyal.com/pawns?r=97082   在这里注册后修改上面的邮箱密码即可一键安装
 
 
 ### 跑流量测试网站挂机
