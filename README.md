@@ -616,6 +616,13 @@ wget -qO- https://brightdata.com/static/earnapp/install.sh > /tmp/earnapp.sh && 
 
 安装完毕后会出现一个浏览器链接，在 ```Open the following URL in the browser:```的下一行，其实就是完整安装后的最后一行输出的链接，你注册后复制该链接到你注册登陆成功的浏览器上打开，就链接上你的账号了(注意账号一定要提前注册或登陆好)
 
+卸载服务使用以下命令
+
+```bash
+earnapp uninstall
+```
+
+
 ### spider
 
 支持：win系统，其他系统后续会支持
