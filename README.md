@@ -20,6 +20,7 @@
         * [iproyal](#iproyal)
         * [packetstream](#packetstream)
         * [earnapp](#earnapp)
+        * [2captcha](#2captcha)
         * [spider](#spider)
         * [repocket](#repocket)
         * [packity](#packity)
@@ -87,9 +88,9 @@
 
 ## 前言
 
-### 2022.8.9更新列表
+### 2022.8.11更新列表
 
-更新挂机脚本，挂机项目，以及操作步骤说明等。
+新增挂机项目。
 
 ## 链接说明
 
@@ -622,6 +623,15 @@ wget -qO- https://brightdata.com/static/earnapp/install.sh > /tmp/earnapp.sh && 
 earnapp uninstall
 ```
 
+### 2captcha
+
+支持：浏览器
+
+链接：https://2captcha.com?from=14626988
+
+提现方式：paypal,西联汇款,银行转账
+
+通过手工解决验证码来获取收入，或者通过安装的浏览器插件自动获取收入
 
 ### spider
 
