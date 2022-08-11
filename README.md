@@ -625,13 +625,15 @@ earnapp uninstall
 
 ### 2captcha
 
-支持：浏览器
+支持：windows，浏览器，安卓
 
 链接：https://2captcha.com?from=14626988
 
+上面注册完毕后，看这个 https://2captcha.com/workers-software
+
 提现方式：paypal,西联汇款,银行转账
 
-通过手工解决验证码来获取收入，或者通过安装的浏览器插件自动获取收入
+通过手工解决验证码来获取收入，或者通过安装的浏览器插件以及类似的东西自动获取收入
 
 ### spider
 
