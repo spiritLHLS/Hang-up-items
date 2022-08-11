@@ -22,6 +22,7 @@
         * [earnapp](#earnapp)
         * [2captcha](#2captcha)
         * [spider](#spider)
+        * [proxyrack](#proxyrack)
         * [repocket](#repocket)
         * [packity](#packity)
         * [跑流量测试网站挂机](#跑流量测试网站挂机)
@@ -499,7 +500,7 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 ### peer2profit
 
-支持全平台，这是它的优点
+支持：windows系统，linux，安卓，ios，mac
 
 支持多种提现方式，外币卡或者payeer都是可以的，当然还有加密货币。
 
@@ -531,7 +532,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-comma
 
 ### traffmonetizer
 
-支持：win，macos，linux系统
+支持：windows系统，macos，linux系统，安卓
 
 支持多种提现方式，外币卡，payeer，paypal，payoneer，webmoney，skrill，BTC.
 
@@ -553,7 +554,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 ### iproyal
 
-支持：win，linux
+支持：windows系统，linux
 
 支持提现方式：paypal
 
@@ -577,7 +578,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-i
 
 ### packetstream
 
-支持：win，linux
+支持：windows系统，linux
 
 提现到paypal
 
@@ -601,7 +602,7 @@ curl -sSL get.docker.com | sh
 
 ### earnapp
 
-支持全平台
+支持：windows系统，mac，ios，linux，安卓
 
 随时可提现，支持paypal或者亚马逊电子卡提现
 
@@ -625,7 +626,7 @@ earnapp uninstall
 
 ### 2captcha
 
-支持：windows，浏览器，安卓
+支持：浏览器
 
 链接：https://2captcha.com?from=14626988
 
@@ -637,11 +638,19 @@ earnapp uninstall
 
 ### spider
 
-支持：win系统，其他系统后续会支持
+支持：windows系统，其他系统后续会支持
 
 可挂服务器。
 
 链接：https://income.spider.dev/r/l2461v26vw
+
+### proxyrack
+
+支持：windows系统
+
+可挂服务器。
+
+链接：https://peer.proxyrack.com/register
 
 ### repocket
 
@@ -653,7 +662,7 @@ earnapp uninstall
 
 ### packity
 
-支持：windows, mac
+支持：windows系统, mac
 
 使用paypal提现，暂时平台测试中，后续多平台支持
 
