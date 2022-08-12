@@ -1306,9 +1306,13 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 对应白嫖项目GitHub自搜
 
-链接：https://github.com/glados-network/GLaDOS
+注册链接：https://github.com/glados-network/GLaDOS
 
-兑换激活码：54ZCP-YVSLU-I1B0E-FVN1U
+兑换激活码(会员1天)：54ZCP-YVSLU-I1B0E-FVN1U
+
+上面激活了再看下面的
+
+自动签到项目：https://github.com/DullSword/GLaDOS-CheckIn
 
 **时灵时不灵**
 
