@@ -15,12 +15,12 @@
     * [站点统计](#站点统计)
 * [挂机和羊毛项目(需要电脑或手机端挂机)](#挂机和薅羊毛项目)
     * [硬核挂机项目合集](#挂机项目合集)
-        * [peer2profit刷闲置流量](#peer2profit)
-        * [traffmonetizer](#traffmonetizer)
-        * [iproyal](#iproyal)
-        * [packetstream](#packetstream)
-        * [honeygain](#honeygain)
-        * [earnapp](#earnapp)
+        * [peer2profit挂闲置流量](#peer2profit)
+        * [traffmonetizer挂闲置流量](#traffmonetizer)
+        * [iproyal挂闲置流量](#iproyal)
+        * [packetstream挂闲置流量](#packetstream)
+        * [honeygain挂闲置流量](#honeygain)
+        * [earnapp挂闲置流量](#earnapp)
         * [2captcha](#2captcha)
         * [spider](#spider)
         * [proxyrack](#proxyrack)
@@ -496,7 +496,7 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 ## 挂机项目合集
 
-一般按照推荐性从好到坏排
+**一般按照推荐性从好到坏排**
 
 ### peer2profit
 
@@ -512,7 +512,7 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 一键安装命令，方便部署服务器(写死了，单IP不能多开，多开封号)(收益比较低，一个IP一个月大概就0.1~0.0.25刀，个人实验38天0.21刀)
 
-国外服务器可挂，国内服务器挂了收益较低，但挂住宅网收益还是可观的。
+国外服务器可挂，国内服务器挂了收益较低，但挂住宅网收益还是可观的，挂闲置流量。
 
 执行后输入上面注册链接里你注册的账户邮箱即可直接安装(支持centos(Redhat)，amd64架构的ubuntu16+，amd64架构的Debian10+)
 
@@ -540,6 +540,8 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-comma
 
 注册链接(获得5刀初始金)：https://traffmonetizer.com/?aff=247346
 
+挂闲置流量，这个收益比上面的高。
+
 在这里注册后修改下面一键命令最后的token即可一键安装
 
 自写一键安装脚本仓库：https://github.com/spiritLHLS/traffmonetizer-one-click-command-installation/blob/main/README_zh.md
@@ -564,9 +566,9 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
 
-（用了一天0.05美元，我这网延迟和带宽不行，如果延迟和带宽好一点的网估计比上面那个收益高一点，不能用梯子挂，裸挂真实ip）  
+用了一天0.05美元，我这网延迟和带宽不行，如果延迟和带宽好一点的网估计比上面那个收益高一点，不能用梯子挂，裸挂真实ip，挂闲置流量
 
-家中的电脑等个人设备肯定可以挂。
+家中的电脑等个人设备肯定可以挂，挂闲置流量
 
 自写一键脚本仓库：https://github.com/spiritLHLS/iproyal-one-click-command-installation/blob/main/README_zh.md
 
@@ -585,6 +587,8 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-i
 **可挂服务器的第四推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 链接：https://packetstream.io/?psr=2G9p
+
+挂闲置流量
 
 注册后在下载选项中选择linux，复制所有代码执行即可
 
@@ -608,9 +612,11 @@ curl -sSL get.docker.com | sh
 
 链接：https://r.honeygain.me/24610E80CD   
 
-消耗流量挂机，走我链接注册送5美元
+消耗流量挂机，走上面链接注册送5美元初始金
 
-如果是国内IP，还是算了吧，单IP一天有0.1美元不错了，如果带宽和延迟好可以试试，我挖了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子)  
+如果是国内IP，还是算了吧，单IP一天有0.1美元不错了，如果带宽和延迟好可以试试，我挖了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子
+
+挂闲置流量
 
 这个是paypal付款给你，但是提现得攒到20美元才行
 
@@ -631,6 +637,8 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 **可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 链接：https://earnapp.com/i/euellb5
+
+挂闲置流量
 
 注册后使用以下命令下载安装：
 
