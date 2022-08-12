@@ -19,13 +19,13 @@
         * [traffmonetizer](#traffmonetizer)
         * [iproyal](#iproyal)
         * [packetstream](#packetstream)
+        * [honeygain](#honeygain)
         * [earnapp](#earnapp)
         * [2captcha](#2captcha)
         * [spider](#spider)
         * [proxyrack](#proxyrack)
         * [repocket](#repocket)
         * [packity](#packity)
-        * [跑流量测试网站挂机](#跑流量测试网站挂机)
         * [跑流量刷上行](#跑流量刷上行)
         * [甜糖挂机](#甜糖挂机)
         * [cryptotab挖币挂机](#cryptotab)
@@ -89,9 +89,9 @@
 
 ## 前言
 
-### 2022.8.11更新列表
+### 2022.8.12更新列表
 
-新增挂机项目。
+新增挂机项目对应脚本。
 
 ## 链接说明
 
@@ -600,13 +600,35 @@ docker ps -a
 curl -sSL get.docker.com | sh
 ```
 
+### honeygain
+
+支持：windows系统，mac，ios，linux，安卓
+
+**可挂服务器的第五推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+链接：https://r.honeygain.me/24610E80CD   
+
+消耗流量挂机，走我链接注册送5美元
+
+如果是国内IP，还是算了吧，单IP一天有0.1美元不错了，如果带宽和延迟好可以试试，我挖了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子)  
+
+这个是paypal付款给你，但是提现得攒到20美元才行
+
+自写一键脚本仓库：https://github.com/spiritLHLS/honeygain-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
+```
+
 ### earnapp
 
 支持：windows系统，mac，ios，linux，安卓
 
 随时可提现，支持paypal或者亚马逊电子卡提现
 
-**可挂服务器的第五推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 链接：https://earnapp.com/i/euellb5
 
@@ -667,19 +689,6 @@ earnapp uninstall
 使用paypal提现，暂时平台测试中，后续多平台支持
 
 链接：https://packity.com/signup?affid=62ef6c10991658043b85dce5
-
-
-### 跑流量测试网站挂机
-
-支持：手机，电脑      
-
-Honeygain消耗流量挂机(如果是国内IP，还是算了吧，一天有0.1美元不错了，如果带宽和延迟好可以试试，我挖了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子)   
-
-（这个是paypal付款给你，但是提现得攒到20美元才行，可以和下面的一起挂）   
-
-（这个不能挂云服务器，云服务器的ip是CDN分发还是什么的，不是固定IP没法挂）
-
-https://r.honeygain.me/24610E80CD   
 
 
 ### 跑流量刷上行
