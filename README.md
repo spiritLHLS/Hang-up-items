@@ -19,8 +19,8 @@
         * [traffmonetizer挂闲置流量](#traffmonetizer)
         * [iproyal挂闲置流量](#iproyal)
         * [packetstream挂闲置流量](#packetstream)
-        * [honeygain挂闲置流量](#honeygain)
         * [earnapp挂闲置流量](#earnapp)
+        * [honeygain挂闲置流量](#honeygain)
         * [2captcha](#2captcha)
         * [spider](#spider)
         * [proxyrack](#proxyrack)
@@ -89,9 +89,9 @@
 
 ## 前言
 
-### 2022.8.12更新列表
+### 2022.8.13更新列表
 
-新增挂机项目对应脚本。
+更新挂机脚本说明。
 
 ## 链接说明
 
@@ -604,37 +604,13 @@ docker ps -a
 curl -sSL get.docker.com | sh
 ```
 
-### honeygain
-
-支持：windows系统，mac，ios，linux，安卓
-
-**可挂服务器的第五推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
-
-链接：https://r.honeygain.me/24610E80CD   
-
-消耗流量挂机，走上面链接注册送5美元初始金
-
-如果是国内IP，还是算了吧，单IP一天有0.1美元不错了，如果带宽和延迟好可以试试，我挖了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子
-
-挂闲置流量
-
-这个是paypal付款给你，但是提现得攒到20美元才行
-
-自写一键脚本仓库：https://github.com/spiritLHLS/honeygain-one-click-command-installation/blob/main/README_zh.md
-
-一键命令：
-
-```
-curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
-```
-
 ### earnapp
 
 支持：windows系统，mac，ios，linux，安卓
 
 随时可提现，支持paypal或者亚马逊电子卡提现
 
-**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第五推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 链接：https://earnapp.com/i/euellb5
 
@@ -653,6 +629,33 @@ wget -qO- https://brightdata.com/static/earnapp/install.sh > /tmp/earnapp.sh && 
 ```bash
 earnapp uninstall
 ```
+
+### honeygain
+
+支持：windows系统，mac，ios，linux，安卓
+
+**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+**注意，这家挂机必须百分百确定你的是家宽服务器或者是你直接国内家里的流量可以挂，别的不能挂，挂错的多了会封号！**
+
+链接：https://r.honeygain.me/SPIRICF6DB
+
+消耗流量挂机，走上面链接注册送5美元初始金
+
+如果是国内IP，还是算了吧，单IP一天有0.1美元不错了，如果带宽和延迟好可以试试，我挖了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子
+
+挂闲置流量
+
+这个是paypal付款给你，但是提现得攒到20美元才行
+
+自写一键脚本仓库：https://github.com/spiritLHLS/honeygain-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
+```
+
 
 ### 2captcha
 
