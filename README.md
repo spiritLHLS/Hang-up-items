@@ -21,9 +21,9 @@
         * [packetstream挂闲置流量](#packetstream)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
+        * [proxyrack挂闲置流量](#proxyrack)
         * [2captcha](#2captcha)
         * [spider](#spider)
-        * [proxyrack](#proxyrack)
         * [repocket](#repocket)
         * [packity](#packity)
         * [跑流量刷上行](#跑流量刷上行)
@@ -642,7 +642,7 @@ earnapp uninstall
 
 消耗流量挂机，走上面链接注册送5美元初始金
 
-如果是国内IP，还是算了吧，单IP一天有0.1美元不错了，如果带宽和延迟好可以试试，我挖了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子
+如果是国内IP，还是算了吧，单IP一天有0.1美元不错了，如果带宽和延迟好可以试试，我挂了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子
 
 挂闲置流量
 
@@ -656,6 +656,18 @@ earnapp uninstall
 curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
 ```
 
+
+### proxyrack
+
+支持：windows系统
+
+可挂服务器，好东西。
+
+**一天一个IP有0.02~0.05刀，可惜就是限制了只能win暂时，起飞。**
+
+平台初创，没有塞IP检测，把所有IP都当住宅IP了，收益自然高了，人多了可能就低了。
+
+链接：https://peer.proxyrack.com/ref/bl15uqptmkmwpcgz7gcccl3tl90fapiqhmzpbnyz
 
 ### 2captcha
 
@@ -676,14 +688,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 可挂服务器。
 
 链接：https://income.spider.dev/r/l2461v26vw
-
-### proxyrack
-
-支持：windows系统
-
-可挂服务器。
-
-链接：https://peer.proxyrack.com/register
 
 ### repocket
 
