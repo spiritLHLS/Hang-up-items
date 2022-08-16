@@ -89,7 +89,7 @@
 
 ## 前言
 
-### 2022.8.13更新列表
+### 2022.8.16更新列表
 
 更新挂机脚本说明。
 
@@ -656,16 +656,15 @@ earnapp uninstall
 curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
 ```
 
-
 ### proxyrack
 
 支持：windows系统
 
-可挂服务器，好东西。
+可挂服务器，挂国内也有收益，好东西。
 
-**一天一个IP有0.02~0.05刀，可惜就是限制了只能win暂时，起飞。**
+**一天一个IP有0.02~0.05刀，可惜就是限制了只能win暂时。**
 
-平台初创，没有塞IP检测，把所有IP都当住宅IP了，收益自然高了，人多了可能就低了。
+平台初创，收益自然高了，人多了可能就低了。(其他好处我就不细说了，自己悟)
 
 链接：https://peer.proxyrack.com/ref/bl15uqptmkmwpcgz7gcccl3tl90fapiqhmzpbnyz
 
