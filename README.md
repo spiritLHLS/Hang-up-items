@@ -666,7 +666,9 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 
 平台初创，收益自然高了，人多了可能就低了。(其他好处我就不细说了，自己悟)
 
-链接：https://peer.proxyrack.com/ref/bl15uqptmkmwpcgz7gcccl3tl90fapiqhmzpbnyz
+注册链接(注册送5刀)：https://peer.proxyrack.com/ref/bl15uqptmkmwpcgz7gcccl3tl90fapiqhmzpbnyz
+
+首次提现需要攒够20刀，实际 你需要挂出15刀即可提现。
 
 ### 2captcha
 
