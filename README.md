@@ -668,6 +668,8 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 
 注册记得用paypal的邮箱注册，因为提现走的paypal，默认是你的注册邮箱的。
 
+提款48小时内到账(以工作日计算)。
+
 注册链接(注册送5刀)：https://peer.proxyrack.com/ref/bl15uqptmkmwpcgz7gcccl3tl90fapiqhmzpbnyz
 
 首次提现需要攒够20刀，实际 你需要挂出15刀即可提现。
