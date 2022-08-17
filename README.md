@@ -91,7 +91,7 @@
 
 ### 2022.8.16更新列表
 
-更新挂机脚本说明。
+更新挂机项目提现说明。
 
 ## 链接说明
 
@@ -665,6 +665,8 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 **一天一个IP有0.02~0.05刀，可惜就是限制了只能win暂时。**
 
 平台初创，收益自然高了，人多了可能就低了。(其他好处我就不细说了，自己悟)
+
+注册记得用paypal的邮箱注册，因为提现走的paypal，默认是你的注册邮箱的。
 
 注册链接(注册送5刀)：https://peer.proxyrack.com/ref/bl15uqptmkmwpcgz7gcccl3tl90fapiqhmzpbnyz
 
