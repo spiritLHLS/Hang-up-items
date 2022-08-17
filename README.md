@@ -21,7 +21,7 @@
         * [packetstream挂闲置流量](#packetstream)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
-        * [proxyrack挂闲置流量](#proxyrack)
+        * [proxyrack](#proxyrack)
         * [2captcha](#2captcha)
         * [spider](#spider)
         * [repocket](#repocket)
@@ -89,7 +89,7 @@
 
 ## 前言
 
-### 2022.8.16更新列表
+### 2022.8.17更新列表
 
 更新挂机项目提现说明。
 
@@ -660,17 +660,17 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 
 支持：windows系统
 
-可挂服务器，挂国内也有收益，好东西。
+可挂服务器，挂国内也有收益，是个好东西。
 
 **一天一个IP有0.02~0.05刀，可惜就是限制了只能win暂时。**
 
 平台初创，收益自然高了，人多了可能就低了。(其他好处我就不细说了，自己悟)
 
-提款请求将在72小时内处理，处理完后会收到一封邮件，里面有关于如何领取的信息。
+提款请求将在72小时内处理，处理完后你会收到一封邮件，里面有关于如何领取的信息(大概率用的paypal收款)。
 
-注册链接(注册送5刀)：https://peer.proxyrack.com/ref/bl15uqptmkmwpcgz7gcccl3tl90fapiqhmzpbnyz
+注册链接(注册送5刀)：https://peer.proxyrack.com/ref/p28h60vn6bq3pznzx4bjuocdwqb5lrlb2tf3fksy
 
-首次提现需要攒够20刀，实际 你需要挂出15刀即可提现。
+首次提现需要攒够20刀，实际上你需要挂出15刀即可提现。
 
 ### 2captcha
 
@@ -1312,7 +1312,7 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 链接：https://www.youneed.win/about
 
-**白嫖签到高速10G**
+**白嫖签到高速节点**
 
 对应白嫖项目GitHub自搜
 
@@ -1323,6 +1323,8 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 上面激活了再看下面的
 
 自动签到项目：https://github.com/DullSword/GLaDOS-CheckIn
+
+签到可以一直使用会员套餐，每过半月一个月会给你优惠码兑换时长，可以一直续
 
 **时灵时不灵**
 
