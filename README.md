@@ -89,9 +89,9 @@
 
 ## 前言
 
-### 2022.8.17更新列表
+### 2022.8.22更新列表
 
-更新挂机项目提现说明。
+更新挂机项目提现方式。
 
 ## 链接说明
 
@@ -666,11 +666,37 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 
 平台初创，收益自然高了，人多了可能就低了。(其他好处我就不细说了，自己悟)
 
-提款请求将在72小时内处理，处理完后你会收到一封邮件，里面有关于如何领取的信息(大概率用的paypal收款)。
+提款请求将在72小时内处理，处理完后你会收到一封邮件，里面选择如何提款，有paypal，一张360天有效期的虚拟银行卡(预付卡)，各种礼品卡。
 
 注册链接(注册送5刀)：https://peer.proxyrack.com/ref/p28h60vn6bq3pznzx4bjuocdwqb5lrlb2tf3fksy
 
 首次提现需要攒够20刀，实际上你需要挂出15刀即可提现。
+
+2022.8.22 更新提现方式截图
+
+邮件：
+
+![图片.png](https://s2.loli.net/2022/08/22/om3up7g4IiKMDNc.png)
+
+提款方式：
+
+![图片.png](https://s2.loli.net/2022/08/22/i9lQoICuwTtUzr7.png)
+
+这个厉害，第一个选项送你一张预付卡
+
+![图片.png](https://s2.loli.net/2022/08/22/gaXf8vxisB3Tnby.png)
+
+其他如下
+
+![图片.png](https://s2.loli.net/2022/08/22/8Akq6DljxtiW7G4.png)
+
+![图片.png](https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png)
+
+![图片.png](https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png)
+
+个人经验：
+
+这家收益不稳定，如果碰到需求大的日子就起飞，需求低的日子那收益低的离谱，每天收益不固定的。
 
 ### 2captcha
 
