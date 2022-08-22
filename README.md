@@ -662,7 +662,9 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 
 可挂服务器，挂国内也有收益，是个好东西。
 
-**一天一个IP有0.02~0.05刀，可惜就是限制了只能win暂时。**
+**一天一个IP最低的时候0.02~0.05刀，可惜就是限制了只能win暂时**
+
+这家收益不稳定，如果碰到需求大的日子就起飞，需求低的日子那收益低，每天收益不固定的。
 
 平台初创，收益自然高了，人多了可能就低了。(其他好处我就不细说了，自己悟)
 
@@ -676,27 +678,23 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 
 邮件：
 
-![图片.png](https://s2.loli.net/2022/08/22/om3up7g4IiKMDNc.png)
+https://s2.loli.net/2022/08/22/om3up7g4IiKMDNc.png
 
 提款方式：
 
-![图片.png](https://s2.loli.net/2022/08/22/i9lQoICuwTtUzr7.png)
+https://s2.loli.net/2022/08/22/i9lQoICuwTtUzr7.png
 
 这个厉害，第一个选项送你一张预付卡
 
-![图片.png](https://s2.loli.net/2022/08/22/gaXf8vxisB3Tnby.png)
+https://s2.loli.net/2022/08/22/gaXf8vxisB3Tnby.png
 
 其他如下
 
-![图片.png](https://s2.loli.net/2022/08/22/8Akq6DljxtiW7G4.png)
+https://s2.loli.net/2022/08/22/8Akq6DljxtiW7G4.png
 
-![图片.png](https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png)
+https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png
 
-![图片.png](https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png)
-
-个人经验：
-
-这家收益不稳定，如果碰到需求大的日子就起飞，需求低的日子那收益低的离谱，每天收益不固定的。
+https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png
 
 ### 2captcha
 
