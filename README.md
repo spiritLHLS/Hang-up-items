@@ -90,9 +90,9 @@
 
 ## 前言
 
-### 2022.9.30更新列表
+### 2022.10.2更新列表
 
-更新部分项目说明，新增广告项目。
+更新部分国外服务器推荐
 
 ## 链接说明
 
@@ -217,7 +217,7 @@ pps:有可能黑身份上征信，我没操作过，一切只是他人的经验�
 
 **避坑帖子：[https://t.me/VPS_spiders/135](https://t.me/VPS_spiders/135)**
 
-(以下服务器个人推荐性从高到低往后排)
+(以下服务器个人推荐性从高到低往后排，更推荐在[测评频道](https://t.me/vps_reviews)中查看详细的商家评价以及支付方式等信息)
 
 #### 美国小鸡0(VPS)
 
@@ -231,9 +231,7 @@ pps:有可能黑身份上征信，我没操作过，一切只是他人的经验�
 
 部署可选区域：洛杉矶、圣何塞、达拉斯、芝加哥、纽约、阿什本和西雅图 
 
-注册链接：[https://my.racknerd.com/aff.php?aff=4073](https://my.racknerd.com/aff.php?aff=4073)
-
-购买链接：[https://www.racknerd.com/NewYear?aff=4073](https://www.racknerd.com/NewYear?aff=4073)
+购买链接：[https://my.racknerd.com/aff.php?aff=4073&pid=620](https://my.racknerd.com/aff.php?aff=4073&pid=620)
 
 #### 美国小鸡1(VPS)
 
@@ -275,13 +273,21 @@ pps:有可能黑身份上征信，我没操作过，一切只是他人的经验�
 
 链接：[https://virmach.com/cheap-kvm-linux-vps-windows-vps/?aff=10425#css3_grid_kvm_prev](https://virmach.com/cheap-kvm-linux-vps-windows-vps/?aff=10425#css3_grid_kvm_prev)
 
-#### 美国小鸡3(VPS)
+#### 荷兰小鸡3(VPS)
 
-日价20🔪黑五价15🔪2核1G内存30G硬盘2.5T每月带宽1G带ipv4.(OpneVZ)
+荷兰
 
-黑五(或者优惠卷)平摊下来每月7.8元左右，日常价格平摊下来每月10元出头一点。
+1个核心 AMD Epyc™ 处理器 频率 2.0-3.0 GHz
+8 GB 内存
+20 GB NVMe  
+100Mbps带宽 不限流量
+月付99卢布 (11元)
+特价将会导致整个账户无工单技术服务！但你TG联系客服还是会管一管开关机问题的。
+(要买的记得开新号！)
+最好以卢布为计算货币，以后卢布跌了就更便宜了。
+商家不限制单号购买数量为1了，购买限额改为优惠款可单号买5个最多
+链接：[https://aeza.net/?ref=345903](https://aeza.net/?ref=345903)
 
-购买链接：[https://portal.nextarray.com/?affid=99](https://portal.nextarray.com/?affid=99)
 
 #### 美国小鸡4(VPS)
 
@@ -307,7 +313,9 @@ scaleway 星辰实例
 
 (黑五或者大的西方节日折扣价格更便宜)
 
-延迟极低，客服就是老板，沟通无碍。
+延迟极低，客服就是老板，沟通无碍.
+
+美国西海岸西雅图三网4837直连，晚高峰也不掉速，建站良选。
 
 实际上这个网站购买用户90%左右是中国人。。。。
 
@@ -373,7 +381,7 @@ OpenVZ的机不能开tun。
 
 #### 俄罗斯小鸡5(VPS)
 
-这家网络比较差，容易掉线，对网络要求不高的可以试试。(IO也很拉跨，性价比很低)
+这家网络带宽小，对网络要求不高的可以试试。(毕竟是CN2线路，对于北方用户还是不错的)
 
 104卢布(10元左右)一个月，1核0.5G内存5G硬盘(KVM)200 Mbit(随时有)
 
