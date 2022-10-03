@@ -90,9 +90,9 @@
 
 ## 前言
 
-### 2022.10.2更新列表
+### 2022.10.3更新列表
 
-更新部分国外服务器推荐
+更新部分挂机项目说明，支持系统更多了。
 
 ## 链接说明
 
@@ -738,11 +738,11 @@ https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png
 
 ### repocket
 
-支持：手机端
+支持：手机端，Win系统，linux的图形界面，Macos系统
 
 使用paypal提现，暂时平台测试中，后续多平台支持
 
-链接：https://link.repocket.co/t7Pn
+链接：https://link.repocket.co/PBaK
 
 ### packity
 
