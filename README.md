@@ -1378,6 +1378,8 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 兑换激活码(会员1天)：54ZCP-YVSLU-I1B0E-FVN1U
 
+兑换激活码(会员1天)：V3IK4-B09VW-26PM8-N9YGB
+
 上面激活了再看下面的
 
 自动签到项目：https://github.com/DullSword/GLaDOS-CheckIn
