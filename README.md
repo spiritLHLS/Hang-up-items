@@ -18,14 +18,15 @@
     * [硬核挂机项目合集](#挂机项目合集)
         * [peer2profit挂闲置流量](#peer2profit)
         * [traffmonetizer挂闲置流量](#traffmonetizer)
+        * [bitping](#bitping)
         * [iproyal挂闲置流量](#iproyal)
         * [packetstream挂闲置流量](#packetstream)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
         * [proxyrack](#proxyrack)
+        * [repocket](#repocket)
         * [2captcha](#2captcha)
         * [spider](#spider)
-        * [repocket](#repocket)
         * [packity](#packity)
         * [跑流量刷上行](#跑流量刷上行)
         * [甜糖挂机](#甜糖挂机)
@@ -79,7 +80,6 @@
         * [欢太商城刷积分脚本](#欢太商城刷积分脚本)
         * [某公众号的软件收集(含破)](#某公众号的软件收集含破)
         * [安卓万能抓包工具](#安卓万能抓包工具)
-        * [每周自动领取epic免费游戏](#epic游戏每周领取)
         * [合集中的合集1](#合集中的合集2)
         * [合集中的合集2](#合集中的合集2)
     * [有时效性的脚本(只为某段时间内的活动而出现的脚本)](#有时效性的脚本只为某段时间内的活动而出现的脚本)
@@ -90,9 +90,9 @@
 
 ## 前言
 
-### 2022.10.12更新列表
+### 2022.10.29更新列表
 
-删除过期推荐
+删除过期推荐，新增挂机项目
 
 ## 链接说明
 
@@ -574,6 +574,22 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 输入后只需要填写你的token即可一键安装环境和平台脚本
 
+### bitping
+
+支持：win，macos，linux
+
+注册地址：https://app.bitping.com/?r=2RUmPa_f
+
+win下载地址：[点我下载](https://blog.bitping.com/running-a-bitping-node/#windows)
+
+macos下载地址：[点我下载](https://blog.bitping.com/running-a-bitping-node/#macos)
+
+linux安装地址：[点我跳转一键项目](https://github.com/spiritLHLS/bitping-one-click-command-installation/blob/main/README_zh.md)
+
+国内外都可挂，但是收益率感人，非常看IP地区。
+
+而且平台没写明拿你IP去干什么，有被拿去组网但抗ddos的可能，慎重部署。
+
 ### iproyal
 
 支持：windows系统，linux
@@ -716,6 +732,14 @@ https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png
 
 https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png
 
+### repocket
+
+支持：手机端，Win系统，linux的图形界面，Macos系统，linux系统
+
+使用paypal提现，暂时平台测试中，后续多平台支持
+
+链接：https://link.repocket.co/PBaK
+
 ### 2captcha
 
 支持：浏览器
@@ -735,14 +759,6 @@ https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png
 可挂服务器。
 
 链接：https://income.spider.dev/r/l2461v26vw
-
-### repocket
-
-支持：手机端，Win系统，linux的图形界面，Macos系统
-
-使用paypal提现，暂时平台测试中，后续多平台支持
-
-链接：https://link.repocket.co/PBaK
 
 ### packity
 
@@ -1314,12 +1330,6 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 安卓万能抓包工具，工具包在本仓库右上角的release里
 
 个人使用还行，配合一些js脚本可以挂一些小毛软件，实现每日低保收益
-
-### epic游戏每周领取
-
-支持：windows，docker
-
-仓库链接：https://github.com/luminoleon/epicgames-claimer
 
 
 ### 合集中的合集1
