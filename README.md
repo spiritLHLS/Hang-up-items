@@ -23,8 +23,8 @@
         * [packetstream挂闲置流量](#packetstream)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
+        * [repocket挂闲置流量](#repocket)
         * [proxyrack](#proxyrack)
-        * [repocket](#repocket)
         * [2captcha](#2captcha)
         * [spider](#spider)
         * [packity](#packity)
@@ -90,9 +90,9 @@
 
 ## 前言
 
-### 2022.10.29更新列表
+### 2022.10.31更新列表
 
-删除过期推荐，新增挂机项目
+新增挂机项目一键脚本
 
 ## 链接说明
 
@@ -624,7 +624,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-i
 
 **可挂服务器的第四推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
-链接：https://packetstream.io/?psr=2G9p
+链接：https://packetstream.io/?psr=4Osf
 
 挂闲置流量
 
@@ -694,11 +694,30 @@ earnapp uninstall
 curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
 ```
 
+
+### repocket
+
+支持：手机端，Win系统，linux的图形界面，Macos系统，linux系统
+
+**可挂服务器的第七推荐项目！(收益极其稀烂，聊胜于无)**
+
+使用paypal提现，暂时平台测试中，后续多平台支持
+
+注册链接：https://link.repocket.co/PBaK
+
+自写一键脚本仓库：https://github.com/spiritLHLS/repocket-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-installation/main/repocket.sh -o repocket.sh && chmod +x repocket.sh && bash repocket.sh -m 你的邮箱 -p 你的密码
+```
+
 ### proxyrack
 
 支持：windows系统
 
-可挂服务器，挂国内也有收益，是个好东西。
+可挂服务器，挂国内也有收益，是个好东西。(但长期不登陆的话好像后台计算收益有问题)
 
 **一天一个IP最低的时候0.02~0.05刀，可惜就是限制了只能win暂时**
 
@@ -733,14 +752,6 @@ https://s2.loli.net/2022/08/22/8Akq6DljxtiW7G4.png
 https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png
 
 https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png
-
-### repocket
-
-支持：手机端，Win系统，linux的图形界面，Macos系统，linux系统
-
-使用paypal提现，暂时平台测试中，后续多平台支持
-
-链接：https://link.repocket.co/PBaK
 
 ### 2captcha
 
