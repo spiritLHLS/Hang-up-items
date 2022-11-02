@@ -90,7 +90,7 @@
 
 ## 前言
 
-### 2022.10.31更新列表
+### 2022.11.02更新列表
 
 新增挂机项目一键脚本
 
@@ -590,7 +590,13 @@ linux安装地址：[点我跳转一键项目](https://github.com/spiritLHLS/bit
 
 而且平台没写明拿你IP去干什么，有被拿去组网抗ddos的可能，慎重部署。
 
-虽然是一键安装，但是你还得输入注册的登陆邮箱和登陆密码，linux最好使用 screen 命令创建一个窗口执行
+自写一键脚本仓库：https://github.com/spiritLHLS/bitping-one-click-command-installation
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/bitping-one-click-command-installation/main/bitping.sh -o bitping.sh && chmod +x bitping.sh && bash bitping.sh -m 你的邮箱 -p 你的密码
+```
 
 ### iproyal
 
