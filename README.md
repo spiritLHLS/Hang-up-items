@@ -90,9 +90,9 @@
 
 ## 前言
 
-### 2022.11.02更新列表
+### 2022.11.19更新列表
 
-新增挂机项目一键脚本
+替换部分失效链接
 
 ## 链接说明
 
@@ -223,25 +223,25 @@ pps:有可能黑身份上征信，我没操作过，一切只是他人的经验�
 
 一年60左右，带完整面板。
 
-9.89美刀VPS一年，1核0.5G内存10G硬盘1T流量每月(KVM)
+11.88美刀VPS一年，1核786MB内存10G硬盘2T流量每月(KVM)
 
-平摊下来每月5元左右。
+平摊下来每月7元左右。
 
 支持支付宝支付，信用卡支付以及常用加密货币支付。
 
 部署可选区域：洛杉矶、圣何塞、达拉斯、芝加哥、纽约、阿什本和西雅图 
 
-购买链接：[https://my.racknerd.com/aff.php?aff=4073&pid=620](https://my.racknerd.com/aff.php?aff=4073&pid=620)
+购买链接：[https://my.racknerd.com/aff.php?aff=4073&a=add&pid=679](https://my.racknerd.com/aff.php?aff=4073&a=add&pid=679)
 
 #### 美国小鸡1(VPS)
 
-9.99🔪每年(每年63元出头)带完整面板。
+3.5CAD每月(每月18元)带完整面板。
 
-1核512MB内存20GB的SSD硬盘(KVM)，(这个建议关注频道抢购，不定时有货)
+AMD的CPU性能强劲，而且不限流量
 
-注册链接：[https://app.cloudcone.com/?ref=7639](https://app.cloudcone.com/?ref=7639)
+1核1G内存20GB的SSD硬盘(KVM)，(这个建议关注频道抢购，没货时不定时补货会监控到)
 
-洛杉矶的购买地址：[https://app.cloudcone.com.cn/vps/79/create?ref=7639&token=hashtag+2022+vps+-+1](https://app.cloudcone.com.cn/vps/79/create?ref=7639&token=hashtag+2022+vps+-+1)
+迈阿密的购买地址：[https://my.frantech.ca/aff.php?aff=5522&pid=1411](https://my.frantech.ca/aff.php?aff=5522&pid=1411)
 
 #### 俄罗斯小机1(VPS)
 
@@ -304,7 +304,7 @@ scaleway 星辰实例
 
 最低价一年20🔪1核512MB内存10G硬盘(日常价格20🔪，黑五价格15🔪)
 
-比较缺货。
+比较缺货，基本没货。
 
 注册链接：[https://my.frantech.ca/aff.php?aff=5522](https://my.frantech.ca/aff.php?aff=5522)
 
