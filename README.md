@@ -192,11 +192,11 @@ https://curl.qcloud.com/MNyiQAB1
 
 最低配1核1G内存1T硬盘2T流量1Gbps带宽(实际10T，超量限速2M)月付6美元
 
-(实际可以在右小角找客服开订单，询问是否有优惠，可以得到半价优惠)
+(实际可以在右下角找客服开订单，询问是否有优惠，可以得到半价优惠)
 
-(如果显示没货，也是首页右小角联系客服解决，英文沟通)
+(如果显示没货，也是首页右下角联系客服解决，英文沟通)
 
-https://www.interserver.net/r/802990
+购买链接：[https://www.interserver.net/r/802990](https://www.interserver.net/r/802990)
 
 #### 美国小鸡0(VPS)
 
