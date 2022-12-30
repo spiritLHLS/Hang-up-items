@@ -90,9 +90,9 @@
 
 ## 前言
 
-### 2022.11.28更新列表
+### 2022.12.30更新列表
 
-更新部分连接，删除部分失效项目
+更新部分链接
 
 ## 链接说明
 
@@ -202,15 +202,23 @@ https://curl.qcloud.com/MNyiQAB1
 
 一年60左右，带完整面板。
 
-11.88美刀VPS一年，1核786MB内存10G硬盘2T流量每月(KVM)
+10.28美刀VPS一年，1核786MB内存10G硬盘2T流量每月(KVM)
 
-平摊下来每月7元左右。
+平摊下来每月5.7元左右。
 
 支持支付宝支付，信用卡支付以及常用加密货币支付。
 
 部署可选区域：洛杉矶、圣何塞、达拉斯、芝加哥、纽约、阿什本和西雅图 
 
-购买链接：[https://my.racknerd.com/aff.php?aff=4073&a=add&pid=679](https://my.racknerd.com/aff.php?aff=4073&a=add&pid=679)
+购买链接：[https://my.racknerd.com/aff.php?aff=4073&pid=695](https://my.racknerd.com/aff.php?aff=4073&pid=695)
+
+限时抢购 优惠码在2023年1月2日到期 达拉斯地区 KVM VPS —> VPS 1024
+
+7.99美刀VPS一年，1核1G内存10G硬盘1T流量每月(KVM) - 性能会比上面的拉跨点
+
+优惠码：AA9OF4QFL1JHN
+
+购买链接：[https://portal.nextarray.com/?affid=99](https://portal.nextarray.com/?affid=99)
 
 #### 美国小鸡1(VPS)
 
