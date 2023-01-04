@@ -90,9 +90,9 @@
 
 ## 前言
 
-### 2022.12.30更新列表
+### 2023.01.04更新列表
 
-更新部分链接
+删除无效链接
 
 ## 链接说明
 
@@ -102,11 +102,11 @@
 
 收奖网 http://www.sojiang.com/i.aspx?c=1-11501664
 
+集思吧 https://www.jisiba.com/invite?code=0evr9q
+
 looksup国外平台 https://lootup.me?refer=3699182
 
 爱调查 http://www.52survey.com/inviteFriend.mdq?ue=2006281
-
-集思吧 https://www.jisiba.com/invite?code=0evr9q
 
 ~~lifepoints网~~ ~~https://www.lifepointspanel.com/~~ (据反应会导致国外电话打过来，介意勿用)
 
@@ -211,14 +211,6 @@ https://curl.qcloud.com/MNyiQAB1
 部署可选区域：洛杉矶、圣何塞、达拉斯、芝加哥、纽约、阿什本和西雅图 
 
 购买链接：[https://my.racknerd.com/aff.php?aff=4073&pid=695](https://my.racknerd.com/aff.php?aff=4073&pid=695)
-
-限时抢购 优惠码在2023年1月2日到期 达拉斯地区 KVM VPS —> VPS 1024
-
-7.99美刀VPS一年，1核1G内存10G硬盘1T流量每月(KVM) - 性能会比上面的拉跨点
-
-优惠码：AA9OF4QFL1JHN
-
-购买链接：[https://portal.nextarray.com/?affid=99](https://portal.nextarray.com/?affid=99)
 
 #### 美国小鸡1(VPS)
 
