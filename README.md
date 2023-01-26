@@ -31,7 +31,7 @@
         * [跑流量刷上行](#跑流量刷上行)
         * [甜糖挂机](#甜糖挂机)
         * [cryptotab挖币挂机](#cryptotab)
-        * [honeyminer智能挖币挂机](#honeyminer)
+        * [~~honeyminer智能挖币挂机~~](#honeyminer)
         * [跑模拟点击挂机](#跑模拟点击挂机)
         * [~~surfe1~~](#surfe1)
         * [surfe2](#surfe2)
@@ -808,13 +808,15 @@ https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png
 https://cryptotabbrowser.com/18839769
 
 
-### honeyminer
+### ~~honeyminer~~
 
-支持： 电脑
+~~支持： 电脑~~
 
-新的一个平台，聊胜于无，自己感觉比不过上面那个(蜜蜂智能挖矿，自动选择币种，伤GPU和CPU)  
+~~新的一个平台，聊胜于无，自己感觉比不过上面那个(蜜蜂智能挖矿，自动选择币种，伤GPU和CPU)  ~~
 
-https://honeyminer.com/referred/6dwn5
+~~https://honeyminer.com/referred/6dwn5~~
+
+已跑路
 
 ### ~~跑挂机刷语音~~
 
