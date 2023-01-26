@@ -33,7 +33,7 @@
         * [cryptotab挖币挂机](#cryptotab)
         * [honeyminer智能挖币挂机](#honeyminer)
         * [跑模拟点击挂机](#跑模拟点击挂机)
-        * [surfe1](#surfe1)
+        * [~~surfe1~~](#surfe1)
         * [surfe2](#surfe2)
     * [狗东合集](#狗东合集)
         * [狗东入会脚本(每天两次)](#狗东入会脚本)
@@ -90,9 +90,9 @@
 
 ## 前言
 
-### 2023.01.04更新列表
+### 2023.01.26更新列表
 
-删除无效链接
+更新部分说明
 
 ## 链接说明
 
@@ -548,10 +548,10 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-comma
 一键安装命令：
 
 ```
-curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-command-installation/main/tm.sh -o tm.sh && chmod +x tm.sh && bash ./tm.sh -t ViRrn6FZQsfgmE9pjmyAPsEM7UD6epqMb4zcJ3WtQYk=
+curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-command-installation/main/tm.sh -o tm.sh && chmod +x tm.sh && bash ./tm.sh
 ```
 
-输入后只需要填写你的token即可一键安装环境和平台脚本
+输入后只需要填写你的token即可一键安装环境和平台脚本，无交互版本的命令详见对应仓库说明
 
 ### bitping
 
@@ -706,7 +706,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-
 
 **一天一个IP最低的时候0.02~0.05刀，可惜就是限制了只能win暂时**
 
-这家收益不稳定，如果碰到需求大的日子就起飞，需求低的日子那收益低，每天收益不固定的。
+这家收益不稳定，如果碰到需求大的日子就起飞，需求低的日子那收益低，每天收益不固定的(2023年目前收益不高了)
 
 平台初创，收益自然高了，人多了可能就低了。(其他好处我就不细说了，自己悟)
 
@@ -848,15 +848,17 @@ https://honeyminer.com/referred/6dwn5
 
 ~~链接：https://www.spiritlhl.top/Alexamaster/ ~~  
 
-### surfe1
+### ~~surfe1~~
 
-支持：win和macos系统
+~~支持：win和macos系统~~
 
-支持payeer提现。
+~~支持payeer提现。~~
 
-可挂服务器。
+~~可挂服务器。~~
 
-链接：https://surfe.app/?refid=98
+~~链接：https://surfe.app/?refid=98~~
+
+已跑路
 
 ### surfe2
 
