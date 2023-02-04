@@ -18,7 +18,7 @@
     * [硬核挂机项目合集](#挂机项目合集)
         * [peer2profit挂闲置流量](#peer2profit)
         * [traffmonetizer挂闲置流量](#traffmonetizer)
-        * [bitping](#bitping)
+        * [bitping-谨慎](#bitping)
         * [iproyal挂闲置流量](#iproyal)
         * [packetstream挂闲置流量](#packetstream)
         * [earnapp挂闲置流量](#earnapp)
@@ -90,7 +90,7 @@
 
 ## 前言
 
-### 2023.01.26更新列表
+### 2023.02.04更新列表
 
 更新部分说明
 
@@ -568,6 +568,8 @@ linux安装地址：[点我跳转一键项目](https://github.com/spiritLHLS/bit
 国内外都可挂，但是收益率感人，非常看IP地区。
 
 而且平台没写明拿你IP去干什么，有被拿去组网抗ddos的可能，慎重部署。
+
+**不少商家的服务器对这种ping行为是禁止的，所以这个项目自己掂量，收益低风险很高**
 
 自写一键脚本仓库：https://github.com/spiritLHLS/bitping-one-click-command-installation
 
