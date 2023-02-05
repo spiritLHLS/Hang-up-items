@@ -19,6 +19,7 @@
         * [peer2profit挂闲置流量](#peer2profit)
         * [traffmonetizer挂闲置流量](#traffmonetizer)
         * [bitping-谨慎](#bitping)
+        * [proxylite挂闲置流量](#proxylite)
         * [iproyal挂闲置流量](#iproyal)
         * [packetstream挂闲置流量](#packetstream)
         * [earnapp挂闲置流量](#earnapp)
@@ -90,9 +91,9 @@
 
 ## 前言
 
-### 2023.02.04更新列表
+### 2023.02.05更新列表
 
-更新部分说明
+添加新挂机项目
 
 ## 链接说明
 
@@ -559,6 +560,8 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 注册地址：https://app.bitping.com/?r=2RUmPa_f
 
+可挂服务器上，不对IP类型有要求。
+
 win下载地址：[点我下载](https://blog.bitping.com/running-a-bitping-node/#windows)
 
 macos下载地址：[点我下载](https://blog.bitping.com/running-a-bitping-node/#macos)
@@ -578,6 +581,28 @@ linux安装地址：[点我跳转一键项目](https://github.com/spiritLHLS/bit
 ```
 curl -L https://raw.githubusercontent.com/spiritLHLS/bitping-one-click-command-installation/main/bitping.sh -o bitping.sh && chmod +x bitping.sh && bash bitping.sh -m 你的邮箱 -p 你的密码
 ```
+
+### proxylite
+
+支持：win，macos，linux
+
+注册地址：https://proxylite.ru/?r=JLEU2ZZQ
+
+可挂服务器上，不对IP类型有要求。
+
+linux安装地址：[点我跳转一键项目](https://github.com/spiritLHLS/proxylite-one-click-command-installation/blob/main/README_zh.md)
+
+自写一键脚本仓库：https://github.com/spiritLHLS/proxylite-one-click-command-installation
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command-installation/main/proxylite.sh -o proxylite.sh && chmod +x proxylite.sh && bash proxylite.sh -t 这里写你的ID
+```
+
+注册后首页右上角会有ID，在命令最后修改为你的ID
+
+收益非常的低，详见一键脚本的仓库说明
 
 ### iproyal
 
