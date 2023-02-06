@@ -24,7 +24,7 @@
         * [packetstream挂闲置流量](#packetstream)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
-        * [repocket挂闲置流量](#repocket)
+        * [repocket-谨慎](#repocket)
         * [proxyrack](#proxyrack)
         * [2captcha](#2captcha)
         * [spider](#spider)
@@ -715,11 +715,11 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 
 支持：手机端，Win系统，linux的图形界面，Macos系统，linux系统
 
-**可挂服务器的第七推荐项目！(收益极其稀烂，聊胜于无)**
-
 使用paypal提现，暂时平台测试中，后续多平台支持
 
 注册链接：https://link.repocket.co/PBaK
+
+**这个平台疑似有问题，有一个服务器被标记有自动广告行为，谨慎部署，千万别在生产机器上部署！**
 
 自写一键脚本仓库：https://github.com/spiritLHLS/repocket-one-click-command-installation/blob/main/README_zh.md
 
