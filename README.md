@@ -19,7 +19,7 @@
         * [peer2profit挂闲置流量](#peer2profit)
         * [traffmonetizer挂闲置流量](#traffmonetizer)
         * [bitping-谨慎](#bitping)
-        * [proxylite-谨慎](#proxylite)
+        * [proxylite-最好别碰](#proxylite)
         * [iproyal挂闲置流量](#iproyal)
         * [packetstream挂闲置流量](#packetstream)
         * [earnapp挂闲置流量](#earnapp)
@@ -590,7 +590,9 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/bitping-one-click-command-i
 
 可挂服务器上，不对IP类型有要求
 
-**这个平台有问题，有的流量拿来发送垃圾邮件的，所以这个项目自己掂量，收益低风险极高！千万不要在生产机器上使用(最好碰都别碰)！**
+**千万不要在生产机器上使用(最好碰都别碰)，会被商家删机器的！**
+
+**这个平台有问题！有的流量拿来发送垃圾信息的！所以这个项目自己掂量，收益低风险极高！**
 
 linux安装地址：[点我跳转一键项目](https://github.com/spiritLHLS/proxylite-one-click-command-installation/blob/main/README_zh.md)
 
