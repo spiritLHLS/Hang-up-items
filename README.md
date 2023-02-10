@@ -249,7 +249,7 @@ IPv4：1
 
 性能一般，不推荐洛杉矶地区，网络炸的厉害，推荐非洛杉矶的西海岸其他地区
 
-购买链接：[https://portal.dedipath.com/aff.php?aff=1190&pid=520][https://portal.dedipath.com/aff.php?aff=1190&pid=520]
+购买链接：[https://portal.dedipath.com/aff.php?aff=1190&pid=520](https://portal.dedipath.com/aff.php?aff=1190&pid=520)
 
 #### 德国小鸡3(VPS)
 
@@ -267,7 +267,7 @@ German VPS - 德国
 
 •1xIPv4 Address
 
-购买链接：[https://www.eugamehost.com/clients/aff.php?aff=194&pid=262][https://www.eugamehost.com/clients/aff.php?aff=194&pid=262]
+购买链接：[https://www.eugamehost.com/clients/aff.php?aff=194&pid=262](https://www.eugamehost.com/clients/aff.php?aff=194&pid=262)
 
 #### 美国小鸡4(VPS)
 
