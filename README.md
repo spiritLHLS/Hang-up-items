@@ -48,9 +48,9 @@
 
 ## 前言
 
-### 2023.02.10更新列表
+### 2023.02.11更新列表
 
-更新部分服务器推荐，以及归档部分收录的项目不再维护。
+更新部分服务器推荐
 
 ## 链接说明
 
@@ -208,23 +208,25 @@ IPv4：1
 
 购买链接：[https://portal.dedipath.com/aff.php?aff=1190&pid=520](https://portal.dedipath.com/aff.php?aff=1190&pid=520)
 
-#### 德国小鸡3(VPS)
+#### 英国小鸡3(VPS)
 
-德国年付12GBP
+英国年付14GBP
 
-German VPS - 德国
+注册地区非欧盟可无税费
 
-•1vCore 4Ghz or more
+VPS - Starter
 
-•1GB DDR4 
+1vCore
 
-•10GB SSD NVMe
+1GB DDR4 RAM
 
-•1TB monthly transfer @1Gbps
+10GB SSD
 
-•1xIPv4 Address
+Unmetered Uplink @ 1Gbps
 
-购买链接：[https://www.eugamehost.com/clients/aff.php?aff=194&pid=262](https://www.eugamehost.com/clients/aff.php?aff=194&pid=262)
+年付16.8GBP(无税费则14GBP)
+
+购买链接：[https://billing.servacus.co.uk/aff.php?aff=237601&pid=3934](https://billing.servacus.co.uk/aff.php?aff=237601&pid=3934)
 
 #### 美国小鸡4(VPS)
 
