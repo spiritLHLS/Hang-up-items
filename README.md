@@ -33,7 +33,7 @@
         * [甜糖挂机](#甜糖挂机)
         * [cryptotab挖币挂机](#cryptotab)
         * [~~honeyminer智能挖币挂机~~](#honeyminer)
-        * [跑模拟点击挂机](#跑模拟点击挂机)
+        * [~~跑模拟点击挂机~~](#跑模拟点击挂机)
         * [~~surfe1~~](#surfe1)
         * [surfe2](#surfe2)
     * [狗东合集](#狗东合集)
