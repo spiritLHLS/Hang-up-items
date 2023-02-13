@@ -48,9 +48,9 @@
 
 ## 前言
 
-### 2023.02.11更新列表
+### 2023.02.13更新列表
 
-更新部分服务器推荐
+更改部分错误描述
 
 ## 链接说明
 
@@ -172,19 +172,17 @@ AMD的CPU性能强劲，而且不限流量
 
 1核1G内存20GB的SSD硬盘(KVM)，(这个建议关注频道抢购，没货时不定时补货会监控到)
 
-迈阿密的购买地址：[https://my.frantech.ca/aff.php?aff=5522&pid=1411](https://my.frantech.ca/aff.php?aff=5522&pid=1411)
+拉斯维加斯的购买地址：[https://my.frantech.ca/aff.php?aff=5522&pid=1411](https://my.frantech.ca/aff.php?aff=5522&pid=1411)
 
 #### 俄罗斯小机1(VPS)
 
-续费久有优惠。
+多位置，但只有香港，DataLine 莫斯科 俄罗斯，Rostelecom 前Adman 新西伯利亚，俄罗斯值得购买，是CN2线路
 
-30卢布(3元)一个月，1核0.5G内存10G硬盘(KVM)(几乎抢不到)
+性能非常拉跨，但便宜是真便宜，只推荐大陆中北部地区尝试
 
-130卢布(11元)一个月，1核0.5G内存10G硬盘(KVM)(随时有)
+18元一个月，1核0.5G内存5G硬盘(KVM)(随时有)
 
-注册链接：[https://ruvds.com/pr6188](https://ruvds.com/pr6188)
-
-购买页面：[https://ruvds.com/cheap_vps?pr6188](https://ruvds.com/cheap_vps?pr6188)
+购买页面：[跳转](https://justhost.ru/zh/services/vps?ref=137779&period=4&cpu=1&ram=512&hdd=5&storage=hdd&ip=0&software=5&location=3&storage_size=5&netbandmb=200&ipv4_count=0&ipv6_count=1&svc_count=1&payment_period=1&cpu_options=none)
 
 下拉页面自己找，点击订购后得自己选配置
 
