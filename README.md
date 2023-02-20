@@ -48,9 +48,9 @@
 
 ## 前言
 
-### 2023.02.13更新列表
+### 2023.02.20更新列表
 
-更改部分错误描述
+更新国外云服务器推荐
 
 ## 链接说明
 
@@ -184,7 +184,17 @@ AMD的CPU性能强劲，而且不限流量
 
 购买页面：[跳转](https://justhost.ru/zh/services/vps?ref=137779&period=4&cpu=1&ram=512&hdd=5&storage=hdd&ip=0&software=5&location=3&storage_size=5&netbandmb=200&ipv4_count=0&ipv6_count=1&svc_count=1&payment_period=1&cpu_options=none)
 
-下拉页面自己找，点击订购后得自己选配置
+#### 荷兰小鸡(VPS)
+
+xTom(nano-kvm-vps) - [Amsterdam Nano]
+
+1核1G内存15G硬盘1T流量1Gbps带宽
+
+年付9.95欧元
+
+回国线路不好，国际线路还行
+
+购买地址：[https://vps.hosting/?cmd=cart&action=add&id=184&affid=115](https://vps.hosting/?cmd=cart&action=add&id=184&affid=115)
 
 #### 美国小鸡2(VPS)
 
@@ -276,6 +286,22 @@ Full Root Admin Access
 
 购买链接：[https://cloudserver.net/billing/aff.php?aff=7&pid=32](https://cloudserver.net/billing/aff.php?aff=7&pid=32)
 
+#### 土耳其小鸡(VPS)
+
+BF2022-Plan1 or HY2023-Plan1
+
+1 GB 内存
+
+1 核 (1x 1.0GHz)
+
+20 GB SSD 硬盘
+
+500 GB 流量
+
+年付15美元
+
+购买地址：[https://clients.hostiger.com/?cmd=cart&action=add&id=3805&affid=559](https://clients.hostiger.com/?cmd=cart&action=add&id=3805&affid=559)
+
 #### 俄罗斯小机2(VPS)
 
 1核256MB 5GB 固态硬盘 / 10GB硬盘100mb/s 45卢布一个月(2.3元一个月)
@@ -317,28 +343,6 @@ OpenVZ的机不能开tun，性能非常稀烂
 注册链接：[https://hosting-russia.ru/?p=16730](https://hosting-russia.ru/?p=16730)
 
 购买页面：[https://hosting-russia.ru/vds-vps?p=16730](https://hosting-russia.ru/vds-vps?p=16730)
-
-#### 美国小鸡7(VPS)
-
-这家有过无缘无故删机的历史，只推荐玩玩别当主力鸡。
-
-1欧元1个月(每月7元出头)1核512MB10GB无限流量荷兰，最低支持充值5欧元，支持paypal以及欧盟常见外币卡支付。
-
-注册链接：[https://unixserv.eu/register](https://unixserv.eu/register)
-
-购买地址：[https://unixserv.eu/rootserver/order](https://unixserv.eu/rootserver/order)
-
-#### 俄罗斯小鸡5(VPS)
-
-这家网络带宽小，对网络要求不高的可以试试。(毕竟是CN2线路，对于北方用户还是不错的)
-
-104卢布(10元左右)一个月，1核0.5G内存5G硬盘(KVM)200 Mbit(随时有)
-
-这个续费久有活动有优惠，6月和11月续期很便宜。(19年能撸1卢布一个月的鸡，现在撸不了了)
-
-注册链接：[https://justhost.ru/?ref=137779](https://justhost.ru/?ref=137779)
-
-购买链接：[https://justhost.ru/services/vps/?ref=137779&tariff=1#changeconfig](https://justhost.ru/services/vps/?ref=137779&tariff=1#changeconfig)
 
 #### 欧洲大盘鸡
 
