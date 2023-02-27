@@ -60,6 +60,8 @@
 
 收奖网 http://www.sojiang.com/i.aspx?c=1-11501664
 
+香港市民调查(注册IP香港) https://hk.ipanelonline.com/register?inviter_id=4256639
+
 集思吧 https://www.jisiba.com/invite?code=0evr9q
 
 looksup国外平台 https://lootup.me?refer=3699182
