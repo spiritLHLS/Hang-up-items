@@ -50,7 +50,7 @@
 
 ### 2023.02.27更新列表
 
-更新问卷调查项目
+更新问卷调查项目和部分挂机项目说明
 
 ## 链接说明
 
@@ -697,7 +697,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command
 一键命令：
 
 ```
-curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-installation/main/repocket.sh -o repocket.sh && chmod +x repocket.sh && bash repocket.sh -m 你的邮箱 -p 你的密码
+curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-installation/main/repocket.sh -o repocket.sh && chmod +x repocket.sh && bash repocket.sh -m 你的邮箱 -p 你的ApiKey
 ```
 
 ### proxyrack
