@@ -48,9 +48,9 @@
 
 ## 前言
 
-### 2023.02.20更新列表
+### 2023.02.27更新列表
 
-更新国外云服务器推荐
+更新问卷调查项目
 
 ## 链接说明
 
@@ -60,7 +60,7 @@
 
 收奖网 http://www.sojiang.com/i.aspx?c=1-11501664
 
-香港市民调查(注册IP香港) https://hk.ipanelonline.com/register?inviter_id=4256639
+香港市民调查(注册香港，其他地区的站点要验证身份证的，香港不用) https://hk.ipanelonline.com/register?inviter_id=4256639
 
 集思吧 https://www.jisiba.com/invite?code=0evr9q
 
