@@ -588,7 +588,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command
 
 **可挂服务器的第三推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
-注册链接(获得1刀初始金)：https://iproyal.com/pawns?r=97082
+注册链接(获得1刀初始金)：https://pawns.app?r=usdbonus
 
 如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
 
