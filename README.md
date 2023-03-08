@@ -18,14 +18,14 @@
     * [硬核挂机项目合集](#挂机项目合集)
         * [peer2profit挂闲置流量](#peer2profit)
         * [traffmonetizer挂闲置流量](#traffmonetizer)
-        * [bitping-谨慎](#bitping)
-        * [proxylite-最好别碰](#proxylite)
-        * [iproyal挂闲置流量](#iproyal)
+        * [proxyrack挂闲置流量](#proxyrack)
+        * [iproyal-pawns挂闲置流量](#iproyal-pawns)
         * [packetstream挂闲置流量](#packetstream)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
+        * [bitping-谨慎](#bitping)
         * [repocket-谨慎](#repocket)
-        * [proxyrack](#proxyrack)
+        * [proxylite-最好别碰](#proxylite)
         * [2captcha](#2captcha)
         * [spider](#spider)
         * [packity](#packity)
@@ -48,9 +48,9 @@
 
 ## 前言
 
-### 2023.03.07更新列表
+### 2023.03.08更新列表
 
-更新部分说明
+更新并添加新挂机项目
 
 ## 链接说明
 
@@ -520,6 +520,162 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 输入后只需要填写你的token即可一键安装环境和平台脚本，无交互版本的命令详见对应仓库说明
 
+### proxyrack
+
+支持：windows系统，Linux系统的AMD64架构
+
+**可挂服务器上的第三推荐项目！**
+
+可挂服务器，挂国内也有收益，是个好东西。(但长期不登陆的话好像后台计算收益有问题)
+
+**一天一个IP最低的时候0.02~0.05刀**
+
+这家收益不稳定，如果碰到需求大的日子就起飞，需求低的日子那收益低，每天收益不固定的
+
+平台初创，收益自然高了，人多了可能就低了。
+
+提款请求将在72小时内处理，处理完后你会收到一封邮件，里面选择如何提款，有paypal，一张360天有效期的虚拟银行卡(预付卡)，各种礼品卡。
+
+注册链接(注册送5刀)：https://peer.proxyrack.com/ref/p28h60vn6bq3pznzx4bjuocdwqb5lrlb2tf3fksy
+
+首次提现需要攒够20刀，实际上你需要挂出15刀即可提现，在这里注册后修改下面一键命令最后的```API Key```即可一键安装
+
+自写一键安装脚本仓库：https://github.com/spiritLHLS/proxyrack-one-click-command-installation/blob/main/README_zh.md
+
+一键安装命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/proxyrack-one-click-command-installation/main/proxyrack.sh -o proxyrack.sh && chmod +x proxyrack.sh && bash proxyrack.sh
+```
+
+输入后只需要填写你的```API Key```即可一键安装环境和平台脚本，无交互版本的命令详见对应仓库说明
+
+2022.8.22 更新提现方式截图
+
+[邮件截图](https://s2.loli.net/2022/08/22/om3up7g4IiKMDNc.png)
+
+提款方式截图： [1](https://s2.loli.net/2022/08/22/i9lQoICuwTtUzr7.png) [2](https://s2.loli.net/2022/08/22/gaXf8vxisB3Tnby.png) [3](https://s2.loli.net/2022/08/22/8Akq6DljxtiW7G4.png) [4](https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png) [5](https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png)
+
+### packetstream
+
+支持：windows系统，linux
+
+提现到paypal
+
+**可挂服务器的第四推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+链接：https://packetstream.io/?psr=4Osf
+
+挂闲置流量
+
+注册后在下载选项中选择linux，复制所有代码执行即可
+
+测试有没有安装过docker
+
+```bash
+docker ps -a
+```
+
+事先如果没安装过docker，执行会报错，使用以下命令安装docker后再执行你上面复制的命令，安装过docker上述命令没抱错就不必使用下面的命令了
+
+```bash
+curl -sSL get.docker.com | sh
+```
+
+### iproyal-pawns
+
+支持：windows系统，linux
+
+支持提现方式：paypal
+
+**可挂服务器的第五推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+注册链接(获得1刀初始金)：https://pawns.app?r=usdbonus
+
+如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
+
+用了一天0.05美元，我这网延迟和带宽不行，如果延迟和带宽好一点的网估计比上面那个收益高一点，不能用梯子挂，裸挂真实ip，挂闲置流量
+
+家中的电脑等个人设备肯定可以挂，挂闲置流量
+
+自写一键脚本仓库：https://github.com/spiritLHLS/pawns-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-installation/main/iproyal.sh -o iproyal.sh && chmod +x iproyal.sh && bash iproyal.sh -m 你的邮箱 -p 你的密码
+```
+
+### earnapp
+
+支持：windows系统，mac，ios，linux，安卓
+
+随时可提现，支持paypal或者亚马逊电子卡提现
+
+**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+链接：https://earnapp.com/i/euellb5
+
+挂闲置流量
+
+注册后使用以下命令下载安装：
+
+```bash
+wget -qO- https://brightdata.com/static/earnapp/install.sh > /tmp/earnapp.sh && sudo bash /tmp/earnapp.sh
+```
+
+安装完毕后会出现一个浏览器链接，在 ```Open the following URL in the browser:```的下一行，其实就是完整安装后的最后一行输出的链接，你注册后复制该链接到你注册登陆成功的浏览器上打开，就链接上你的账号了(注意账号一定要提前注册或登陆好)
+
+卸载服务使用以下命令
+
+```bash
+earnapp uninstall
+```
+
+### honeygain
+
+支持：windows系统，mac，ios，linux，安卓
+
+**可挂服务器的第七推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+**注意，这家挂机必须百分百确定你的是家宽服务器或者是你直接国内家里的流量可以挂，别的不能挂，挂错的多了会封号！**
+
+链接：https://r.honeygain.me/SPIRICF6DB
+
+消耗流量挂机，走上面链接注册送5美元初始金
+
+如果是国内IP，还是算了吧，单IP一天有0.1美元不错了，如果带宽和延迟好可以试试，我挂了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子
+
+挂闲置流量
+
+这个是paypal付款给你，但是提现得攒到20美元才行
+
+自写一键脚本仓库：https://github.com/spiritLHLS/honeygain-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
+```
+
+### repocket
+
+支持：手机端，Win系统，linux的图形界面，Macos系统，linux系统
+
+使用paypal提现，暂时平台测试中，后续多平台支持
+
+注册链接：https://link.repocket.co/PBaK
+
+**这个平台疑似有问题，有一个服务器被标记有自动广告行为，谨慎部署，千万别在生产机器上部署！**
+
+自写一键脚本仓库：https://github.com/spiritLHLS/repocket-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-installation/main/repocket.sh -o repocket.sh && chmod +x repocket.sh && bash repocket.sh -m 你的邮箱 -p 你的ApiKey
+```
+
 ### bitping
 
 支持：win，macos，linux
@@ -573,166 +729,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command
 注册后首页右上角会有ID，在命令最后修改为你的ID
 
 收益非常的低，详见一键脚本的仓库说明
-
-### iproyal
-
-支持：windows系统，linux
-
-支持提现方式：paypal
-
-**可挂服务器的第三推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
-
-注册链接(获得1刀初始金)：https://pawns.app?r=usdbonus
-
-如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
-
-用了一天0.05美元，我这网延迟和带宽不行，如果延迟和带宽好一点的网估计比上面那个收益高一点，不能用梯子挂，裸挂真实ip，挂闲置流量
-
-家中的电脑等个人设备肯定可以挂，挂闲置流量
-
-自写一键脚本仓库：https://github.com/spiritLHLS/iproyal-one-click-command-installation/blob/main/README_zh.md
-
-一键命令：
-
-```
-curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-installation/main/iproyal.sh -o iproyal.sh && chmod +x iproyal.sh && bash iproyal.sh -m 你的邮箱 -p 你的密码
-```
-
-### packetstream
-
-支持：windows系统，linux
-
-提现到paypal
-
-**可挂服务器的第四推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
-
-链接：https://packetstream.io/?psr=4Osf
-
-挂闲置流量
-
-注册后在下载选项中选择linux，复制所有代码执行即可
-
-测试有没有安装过docker
-
-```bash
-docker ps -a
-```
-
-事先如果没安装过docker，执行会报错，使用以下命令安装docker后再执行你上面复制的命令，安装过docker上述命令没抱错就不必使用下面的命令了
-
-```bash
-curl -sSL get.docker.com | sh
-```
-
-### earnapp
-
-支持：windows系统，mac，ios，linux，安卓
-
-随时可提现，支持paypal或者亚马逊电子卡提现
-
-**可挂服务器的第五推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
-
-链接：https://earnapp.com/i/euellb5
-
-挂闲置流量
-
-注册后使用以下命令下载安装：
-
-```bash
-wget -qO- https://brightdata.com/static/earnapp/install.sh > /tmp/earnapp.sh && sudo bash /tmp/earnapp.sh
-```
-
-安装完毕后会出现一个浏览器链接，在 ```Open the following URL in the browser:```的下一行，其实就是完整安装后的最后一行输出的链接，你注册后复制该链接到你注册登陆成功的浏览器上打开，就链接上你的账号了(注意账号一定要提前注册或登陆好)
-
-卸载服务使用以下命令
-
-```bash
-earnapp uninstall
-```
-
-### honeygain
-
-支持：windows系统，mac，ios，linux，安卓
-
-**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
-
-**注意，这家挂机必须百分百确定你的是家宽服务器或者是你直接国内家里的流量可以挂，别的不能挂，挂错的多了会封号！**
-
-链接：https://r.honeygain.me/SPIRICF6DB
-
-消耗流量挂机，走上面链接注册送5美元初始金
-
-如果是国内IP，还是算了吧，单IP一天有0.1美元不错了，如果带宽和延迟好可以试试，我挂了1.5天0.05美元，比较好的就是国内直接就能上，从头到尾不需要梯子
-
-挂闲置流量
-
-这个是paypal付款给你，但是提现得攒到20美元才行
-
-自写一键脚本仓库：https://github.com/spiritLHLS/honeygain-one-click-command-installation/blob/main/README_zh.md
-
-一键命令：
-
-```
-curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
-```
-
-### repocket
-
-支持：手机端，Win系统，linux的图形界面，Macos系统，linux系统
-
-使用paypal提现，暂时平台测试中，后续多平台支持
-
-注册链接：https://link.repocket.co/PBaK
-
-**这个平台疑似有问题，有一个服务器被标记有自动广告行为，谨慎部署，千万别在生产机器上部署！**
-
-自写一键脚本仓库：https://github.com/spiritLHLS/repocket-one-click-command-installation/blob/main/README_zh.md
-
-一键命令：
-
-```
-curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-installation/main/repocket.sh -o repocket.sh && chmod +x repocket.sh && bash repocket.sh -m 你的邮箱 -p 你的ApiKey
-```
-
-### proxyrack
-
-支持：windows系统
-
-可挂服务器，挂国内也有收益，是个好东西。(但长期不登陆的话好像后台计算收益有问题)
-
-**一天一个IP最低的时候0.02~0.05刀，可惜就是限制了只能win暂时**
-
-这家收益不稳定，如果碰到需求大的日子就起飞，需求低的日子那收益低，每天收益不固定的(2023年目前收益不高了)
-
-平台初创，收益自然高了，人多了可能就低了。(其他好处我就不细说了，自己悟)
-
-提款请求将在72小时内处理，处理完后你会收到一封邮件，里面选择如何提款，有paypal，一张360天有效期的虚拟银行卡(预付卡)，各种礼品卡。
-
-注册链接(注册送5刀)：https://peer.proxyrack.com/ref/p28h60vn6bq3pznzx4bjuocdwqb5lrlb2tf3fksy
-
-首次提现需要攒够20刀，实际上你需要挂出15刀即可提现。
-
-2022.8.22 更新提现方式截图
-
-邮件：
-
-https://s2.loli.net/2022/08/22/om3up7g4IiKMDNc.png
-
-提款方式：
-
-https://s2.loli.net/2022/08/22/i9lQoICuwTtUzr7.png
-
-这个厉害，第一个选项送你一张预付卡
-
-https://s2.loli.net/2022/08/22/gaXf8vxisB3Tnby.png
-
-其他如下
-
-https://s2.loli.net/2022/08/22/8Akq6DljxtiW7G4.png
-
-https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png
-
-https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png
 
 ### 2captcha
 
