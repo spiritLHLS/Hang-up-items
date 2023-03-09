@@ -48,9 +48,9 @@
 
 ## 前言
 
-### 2023.03.08更新列表
+### 2023.03.09更新列表
 
-更新并添加新挂机项目
+更新并添加新挂机项目，更新优惠码
 
 ## 链接说明
 
@@ -149,6 +149,8 @@ https://curl.qcloud.com/MNyiQAB1
 **这配置和价格，性价比非常高，还是equinix的机房**
 
 最低配1核1G内存1T硬盘2T流量1Gbps带宽(实际10T，超量限速2M)月付6美元
+
+终身循环-50%优惠码：happybirthdaylala
 
 购买链接：[https://www.interserver.net/r/802990](https://www.interserver.net/r/802990)
 
