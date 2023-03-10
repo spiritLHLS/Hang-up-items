@@ -50,7 +50,7 @@
 
 ### 2023.03.09更新列表
 
-更新并添加新挂机项目，更新优惠码
+更新服务器推荐
 
 ## 链接说明
 
@@ -167,6 +167,10 @@ https://curl.qcloud.com/MNyiQAB1
 部署可选区域：洛杉矶、圣何塞、达拉斯、芝加哥、纽约、阿什本和西雅图 
 
 购买链接：[https://my.racknerd.com/aff.php?aff=4073&pid=695](https://my.racknerd.com/aff.php?aff=4073&pid=695)
+
+如果不需要美国的好网络，配置能更好点1核1G昵称17G硬盘3T流量年付10.98美元
+
+购买链接：[https://my.racknerd.com/aff.php?aff=4073&a=add&pid=358](https://my.racknerd.com/aff.php?aff=4073&a=add&pid=358)
 
 #### 美国小鸡1(VPS)
 
