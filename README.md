@@ -194,7 +194,9 @@ AMD的CPU性能强劲，而且不限流量
 
 #### 荷兰小鸡(VPS)
 
-xTom(nano-kvm-vps) - [Amsterdam Nano]
+xTom(nano-kvm-vps) - [Amsterdam Nano] / xTom(nano-kvm-vps) - [Frankfurt Nano Pro]
+
+荷兰阿姆斯特丹或德国法兰克福
 
 1核1G内存15G硬盘1T流量1Gbps带宽
 
@@ -202,7 +204,9 @@ xTom(nano-kvm-vps) - [Amsterdam Nano]
 
 回国线路不好，国际线路还行
 
-购买地址：[https://vps.hosting/?cmd=cart&action=add&id=184&affid=115](https://vps.hosting/?cmd=cart&action=add&id=184&affid=115)
+荷兰阿姆斯特丹购买地址：[https://vps.hosting/?cmd=cart&action=add&id=184&affid=115](https://vps.hosting/?cmd=cart&action=add&id=184&affid=115)
+
+德国法兰克福购买地址：[https://vps.hosting/?cmd=cart&action=add&affid=115&id=194](https://vps.hosting/?cmd=cart&action=add&affid=115&id=194)
 
 #### 美国小鸡2(VPS)
 
