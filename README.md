@@ -48,9 +48,9 @@
 
 ## 前言
 
-### 2023.03.09更新列表
+### 2023.03.14更新列表
 
-更新服务器推荐
+更新部分说明
 
 ## 链接说明
 
@@ -168,7 +168,7 @@ https://curl.qcloud.com/MNyiQAB1
 
 购买链接：[https://my.racknerd.com/aff.php?aff=4073&pid=695](https://my.racknerd.com/aff.php?aff=4073&pid=695)
 
-如果不需要美国的好网络，配置能更好点1核1G昵称17G硬盘3T流量年付10.98美元
+如果不需要美国的好网络，配置能更好点1核1G内存17G硬盘3T流量年付10.98美元
 
 购买链接：[https://my.racknerd.com/aff.php?aff=4073&a=add&pid=358](https://my.racknerd.com/aff.php?aff=4073&a=add&pid=358)
 
@@ -178,7 +178,7 @@ https://curl.qcloud.com/MNyiQAB1
 
 AMD的CPU性能强劲，而且不限流量
 
-1核1G内存20GB的SSD硬盘(KVM)，(这个建议关注频道抢购，没货时不定时补货会监控到)
+1核1G内存20GB的SSD硬盘(KVM)-(这个建议关注频道抢购，没货时不定时补货会监控到)
 
 拉斯维加斯的购买地址：[https://my.frantech.ca/aff.php?aff=5522&pid=1411](https://my.frantech.ca/aff.php?aff=5522&pid=1411)
 
@@ -559,6 +559,8 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxyrack-one-click-command
 ```
 
 输入后只需要填写你的```API Key```即可一键安装环境和平台脚本，无交互版本的命令详见对应仓库说明
+
+安装完毕后会打印安装的设备ID和NAME，如果后台不自动录入，此时需要你手动录入到后台
 
 2022.8.22 更新提现方式截图
 
