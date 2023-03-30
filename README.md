@@ -27,6 +27,7 @@
         * [repocket-谨慎](#repocket)
         * [proxylite-最好别碰](#proxylite)
         * [2captcha](#2captcha)
+        * [addslice](#addslice)
         * [spider](#spider)
         * [packity](#packity)
         * [跑流量刷上行](#跑流量刷上行)
@@ -48,9 +49,9 @@
 
 ## 前言
 
-### 2023.03.14更新列表
+### 2023.03.30更新列表
 
-更新部分说明
+添加挂机项目
 
 ## 链接说明
 
@@ -753,6 +754,16 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command
 提现方式：paypal,西联汇款,银行转账
 
 通过手工解决验证码来获取收入，或者通过安装的浏览器插件以及类似的东西自动获取收入
+
+### addslice
+
+支持：谷歌浏览器
+
+链接：https://addslice.com/?crew=zTRbj
+
+提现方式：paypal，bitcoin，visa预付卡
+
+重度油管用户可按照对应插件，浏览以及观看视频会暂时广告，有收益
 
 ### spider
 
