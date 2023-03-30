@@ -757,7 +757,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command
 
 ### addslice
 
-支持：谷歌浏览器
+支持：谷歌浏览器，火狐浏览器
 
 链接：https://addslice.com/?crew=zTRbj
 
