@@ -49,7 +49,7 @@
 
 ## 前言
 
-### 2023.04.05更新列表
+### 2023.05.15更新列表
 
 更改部分描述
 
@@ -517,9 +517,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-comma
 
 注册链接(获得5刀初始金)：https://traffmonetizer.com/?aff=247346
 
-挂闲置流量，这个收益比上面的高。
-
-在这里注册后修改下面一键命令最后的token即可一键安装
+挂闲置流量，这个收益比上面的高，在这里注册后修改下面一键命令最后的token即可一键安装
 
 自写一键安装脚本仓库：https://github.com/spiritLHLS/traffmonetizer-one-click-command-installation/blob/main/README_zh.md
 
@@ -530,6 +528,8 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 ```
 
 输入后只需要填写你的token即可一键安装环境和平台脚本，无交互版本的命令详见对应仓库说明
+
+注意，该项目提款前不要随意更换提款方式，因为提款方式切换可能会损失掉部分积攒的额度
 
 ### proxyrack
 
