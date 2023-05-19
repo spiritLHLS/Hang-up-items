@@ -26,8 +26,8 @@
         * [bitping-谨慎](#bitping)
         * [repocket-谨慎](#repocket)
         * [proxylite-最好别碰](#proxylite)
+        * [addslice浏览器插件挂机](#addslice浏览器插件挂机)
         * [2captcha](#2captcha)
-        * [addslice](#addslice)
         * [spider](#spider)
         * [packity](#packity)
         * [跑流量刷上行](#跑流量刷上行)
@@ -49,7 +49,7 @@
 
 ## 前言
 
-### 2023.05.15更新列表
+### 2023.05.19更新列表
 
 更改部分描述
 
@@ -743,6 +743,16 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command
 
 收益非常的低，详见一键脚本的仓库说明
 
+### addslice浏览器插件挂机
+
+支持：谷歌浏览器，火狐浏览器
+
+链接：https://addslice.com/?crew=zTRbj
+
+提现方式：paypal，bitcoin，visa预付卡
+
+日常有使用 油管、谷歌搜索、必应搜索 可以安装，会展示悬浮广告有收益无需点击，不影响正常使用
+
 ### 2captcha
 
 支持：浏览器
@@ -754,18 +764,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command
 提现方式：paypal,西联汇款,银行转账
 
 通过手工解决验证码来获取收入，或者通过安装的浏览器插件以及类似的东西自动获取收入
-
-### addslice
-
-支持：谷歌浏览器，火狐浏览器
-
-链接：https://addslice.com/?crew=zTRbj
-
-提现方式：paypal，bitcoin，visa预付卡
-
-重度油管用户可按照对应插件，浏览以及观看视频会展示广告，有收益
-
-日常有使用必应搜索的也可以安装，也会展示悬浮广告有收益，但不影响正常使用搜索引擎
 
 ### spider
 
