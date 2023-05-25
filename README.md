@@ -753,7 +753,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command
 
 日常有使用 油管、谷歌搜索、必应搜索 可以安装，会展示悬浮广告有收益无需点击，不影响正常使用，实测无需国际网络，国内也可以
 
-好像还出了给类似的TAB插件，那个不建议装，它默认给你开两个广告页，只是徒增你浏览器的内存占用和cookie记录
+好像还出了个类似的TAB标签页插件，那个不建议装，它默认给你开两个广告页的标签页，只是徒增你浏览器的内存占用和cookie记录，收益与付出不成正比
 
 ### 2captcha
 
