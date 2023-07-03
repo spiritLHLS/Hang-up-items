@@ -10,9 +10,6 @@
     * [服务器监控推荐](#服务器监控推荐)
     * [云服务器优惠活动](#云服务器活动)
     * [国外云服务器推荐](#国外云服务器推荐)
-    * [白嫖免费云服务器(仅支持linux)](#白嫖免费云服务器)
-    * [白嫖免费虚拟主机](#白嫖免费虚拟主机)
-    * [站点统计](#站点统计)
     * [网站广告](#网站广告)
 * [挂机和羊毛项目(需要电脑或手机端挂机)](#挂机和薅羊毛项目)
     * [硬核挂机项目合集](#挂机项目合集)
@@ -49,9 +46,9 @@
 
 ## 前言
 
-### 2023.05.24更新列表
+### 2023.07.03更新列表
 
-更改部分描述
+更改部分描述，删除失效链接
 
 ## 链接说明
 
@@ -147,11 +144,11 @@ https://curl.qcloud.com/MNyiQAB1
 
 #### 美国大盘鸡月付推荐
 
-**这配置和价格，性价比非常高，还是equinix的机房**
+**这配置和价格，性价比较高，还是equinix的机房**
 
-最低配1核1G内存1T硬盘2T流量1Gbps带宽(实际10T，超量限速2M)月付6美元
+最低配1核2G内存1T硬盘2T流量1Gbps带宽(实际10T流量，超量限速2M)月付6美元
 
-终身循环-50%优惠码：happybirthdaylala
+终身循环-20%优惠码：2022BF20
 
 购买链接：[https://www.interserver.net/r/802990](https://www.interserver.net/r/802990)
 
@@ -185,29 +182,13 @@ AMD的CPU性能强劲，而且不限流量
 
 #### 俄罗斯小机1(VPS)
 
-多位置，但只有香港，DataLine 莫斯科 俄罗斯，Rostelecom 前Adman 新西伯利亚，俄罗斯值得购买，是CN2线路
+多位置，但只有香港，DataLine 莫斯科 俄罗斯，Rostelecom 前Adman 新西伯利亚，俄罗斯值得购买，还是CN2线路
 
 性能非常拉跨，但便宜是真便宜，只推荐大陆中北部地区尝试
 
 18元一个月，1核0.5G内存5G硬盘(KVM)(随时有)
 
 购买页面：[跳转](https://justhost.ru/zh/services/vps?ref=137779&period=4&cpu=1&ram=512&hdd=5&storage=hdd&ip=0&software=5&location=3&storage_size=5&netbandmb=200&ipv4_count=0&ipv6_count=1&svc_count=1&payment_period=1&cpu_options=none)
-
-#### 荷兰小鸡(VPS)
-
-xTom(nano-kvm-vps) - [Amsterdam Nano] / xTom(nano-kvm-vps) - [Frankfurt Nano Pro]
-
-荷兰阿姆斯特丹或德国法兰克福
-
-1核1G内存15G硬盘1T流量1Gbps带宽
-
-年付9.95欧元
-
-回国线路不好，国际线路还行
-
-荷兰阿姆斯特丹购买地址：[https://vps.hosting/?cmd=cart&action=add&id=184&affid=115](https://vps.hosting/?cmd=cart&action=add&id=184&affid=115)
-
-德国法兰克福购买地址：[https://vps.hosting/?cmd=cart&action=add&affid=115&id=194](https://vps.hosting/?cmd=cart&action=add&affid=115&id=194)
 
 #### 美国小鸡2(VPS)
 
@@ -371,22 +352,6 @@ HD VDS (KVM)
 
 ## 白嫖免费云服务器
 
-### ~~白嫖永久免费云服务器(废弃)~~
-
-~~仅支持Linux系统~~
-
-~~原博客链接，有挂了梯子的点这个：[点我跳转](https://www.spiritlhl.top/54/)~~
-
-~~反代理博客链接，国内直连的点这个：[点我跳转](https://blog.spiritlhl.workers.dev/54/)~~
-
-~~反代理后的博客加载图片速度更快，一共37张图。。。~~
-
-~~2021.11.19 永久机子11.6改续费方式了，需要验证邮箱PIN，博客对应教程已更新，自改腾讯云函数版本~~
-
-2022.1.16 该网站的免费vps无了，需要收费激活账号了。。。。
-
-~~没需求别整，耗时间又费力气，审核很看人~~
-
 ### 白嫖免费VPS云服务器
 
 **!!!不要墙内传播!!!**
@@ -402,8 +367,6 @@ HD VDS (KVM)
 ps:个人使用体验，euserv有法子自动续期，每个月续一次，但机子不是很好，只能说一般般，这个无自动续期，得每周续一次，但机子性能很好。
 
 pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
-
-**低调使用！！！Euserv就是太多人搞没的！！！**
 
 ### 白嫖免费NAT云服务器
 
@@ -423,41 +386,11 @@ pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 **低调使用！！！Euserv就是太多人搞没的！！！**
 
-### 白嫖免费虚拟主机
-
-下面这个好像无货了。。。自行探索吧
-
-~~首页是显示无货的，需要的得先注册，然后到订购产品里找免费虚拟主机。~~
-
-注册后进去还是无法购买，可能暂时不支持免费虚拟主机了。(2022.03.04)
-
-链接：[https://www.cccyun.net/?invite=194452](https://www.cccyun.net/?invite=194452)
-
-这个有货，但是是德国的
-
-链接：https://www.xsl.tel/hosting/shared-web-hosting/free-cpanel-shared-web-hosting
-
-没需要别整，这个只能搭网站
-
-2022.2.20更新
-
-国外托管网站
-
-链接：http://fibehosting.com/?i=1
-
 ### 白嫖1TB云硬盘
 
 链接：https://www.euserv.com/en/cloud/backup-hd-1T-se2021.php
 
 只能嫖一年。
-
-## 站点统计
-
-简单的说，你给自己博客挂上，可以看到访客数据，还能拿积分换钱。
-
-访问量越多赚的越多，注意，不能恶意刷访问量！！！
-
-链接：https://invite.51.la/1Ns6Rl3v?target=V6
 
 ## 网站广告
 
