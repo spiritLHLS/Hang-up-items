@@ -46,9 +46,9 @@
 
 ## 前言
 
-### 2023.07.03更新列表
+### 2023.07.18更新列表
 
-更改部分描述，删除失效链接
+删除失效链接
 
 ## 链接说明
 
@@ -874,9 +874,11 @@ https://cryptotabbrowser.com/18839769
 
 兑换激活码(会员1天)：V3IK4-B09VW-26PM8-N9YGB
 
-上面激活了再看下面的
+上面激活了再看：
 
-自动签到项目：https://github.com/DullSword/GLaDOS-CheckIn
+https://github.com/search?q=GLaDOS&type=repositories
+
+用其中最热门的的issues最少的项目进行自动化签到
 
 签到可以一直使用会员套餐，每过半月一个月会给你优惠码兑换时长，可以一直续
 
