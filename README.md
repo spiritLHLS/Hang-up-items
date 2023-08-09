@@ -13,11 +13,11 @@
     * [网站广告](#网站广告)
 * [挂机和羊毛项目(需要电脑或手机端挂机)](#挂机和薅羊毛项目)
     * [硬核挂机项目合集](#挂机项目合集)
-        * [peer2profit挂闲置流量](#peer2profit)
         * [traffmonetizer挂闲置流量](#traffmonetizer)
         * [proxyrack挂闲置流量](#proxyrack)
-        * [iproyal-pawns挂闲置流量](#iproyal-pawns)
         * [packetstream挂闲置流量](#packetstream)
+        * [peer2profit挂闲置流量](#peer2profit)
+        * [iproyal-pawns挂闲置流量](#iproyal-pawns)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
         * [bitping-谨慎](#bitping)
@@ -46,9 +46,9 @@
 
 ## 前言
 
-### 2023.07.18更新列表
+### 2023.08.09更新列表
 
-删除失效链接
+更改项目优先级，部分项目因为有人滥用已无Docker
 
 ## 链接说明
 
@@ -408,45 +408,13 @@ https://ezoic.com/?tap_a=6182-5778c2&tap_s=3024450-2f94e4
 
 **一般按照推荐性从好到坏排**
 
-### peer2profit
-
-支持：windows系统，linux，安卓，ios，mac
-
-支持多种提现方式，外币卡或者payeer都是可以的，当然还有加密货币。
-
-**可挂服务器上的第一推荐项目！**
-
-链接：https://p2pr.me/164225539661e2d42426a2f 
-
-如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱即可一键安装
-
-一键安装命令，方便部署服务器(写死了，单IP不能多开，多开封号)(收益比较低，一个IP一个月大概就0.1~0.0.25刀，个人实验38天0.21刀)
-
-国外服务器可挂，国内服务器挂了收益较低，但挂住宅网收益还是可观的，挂闲置流量。
-
-执行后输入上面注册链接里你注册的账户邮箱即可直接安装(支持centos(Redhat)，amd64架构的ubuntu16+，amd64架构的Debian10+)
-
-(经过我的要求，官方增加了对低版本的支持，如果有bug，可以联系我，我和官方客服沟通，当然你也可以直接联系官方客服)
-
-(我还在继续反映bug，后续会支持更多系统)
-
-附上和客服聊天截图：https://s2.loli.net/2022/05/08/7Zka29CdJxsWPGQ.png
-
-自写一键安装脚本仓库：https://github.com/spiritLHLS/peer2profit-one-click-command-installation/blob/main/README_zh.md
-
-一键安装命令：
-
-```bash
-curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-command-installation/main/p.sh -o p.sh && chmod +x p.sh && bash p.sh -m 你的邮箱
-```
-
 ### traffmonetizer
 
 支持：windows系统，macos，linux系统，安卓
 
 支持多种提现方式，外币卡，payeer，paypal，payoneer，webmoney，skrill，BTC.
 
-**可挂服务器的第二推荐项目！**
+**可挂服务器的第一推荐项目！**
 
 注册链接(获得5刀初始金)：https://traffmonetizer.com/?aff=247346
 
@@ -468,7 +436,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 支持：windows系统，Linux系统的AMD64架构
 
-**可挂服务器上的第三推荐项目！**
+**可挂服务器上的第二推荐项目！**
 
 可挂服务器，挂国内也有收益，是个好东西。(但长期不登陆的话好像后台计算收益有问题)
 
@@ -508,7 +476,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxyrack-one-click-command
 
 提现到paypal
 
-**可挂服务器的第四推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第三推荐项目！(部分云服务器可挂)**
 
 链接：https://packetstream.io/?psr=4Osf
 
@@ -526,6 +494,38 @@ docker ps -a
 
 ```bash
 curl -sSL get.docker.com | sh
+```
+
+### peer2profit
+
+支持：windows系统，linux，安卓，ios，mac
+
+支持多种提现方式，外币卡或者payeer都是可以的，当然还有加密货币。
+
+**可挂服务器上的第四推荐项目！**
+
+链接：https://p2pr.me/164225539661e2d42426a2f 
+
+如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱即可一键安装
+
+一键安装命令，方便部署服务器(写死了，单IP不能多开，多开封号)(收益比较低，一个IP一个月大概就0.1~0.0.25刀，个人实验38天0.21刀)
+
+国外服务器可挂，国内服务器挂了收益较低，但挂住宅网收益还是可观的，挂闲置流量。
+
+执行后输入上面注册链接里你注册的账户邮箱即可直接安装(支持centos(Redhat)，amd64架构的ubuntu16+，amd64架构的Debian10+)
+
+(经过我的要求，官方增加了对低版本的支持，如果有bug，可以联系我，我和官方客服沟通，当然你也可以直接联系官方客服)
+
+(我还在继续反映bug，后续会支持更多系统)
+
+附上和客服聊天截图：https://s2.loli.net/2022/05/08/7Zka29CdJxsWPGQ.png
+
+自写一键安装脚本仓库：https://github.com/spiritLHLS/peer2profit-one-click-command-installation/blob/main/README_zh.md
+
+一键安装命令：
+
+```bash
+curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-command-installation/main/p.sh -o p.sh && chmod +x p.sh && bash p.sh -m 你的邮箱
 ```
 
 ### iproyal-pawns
