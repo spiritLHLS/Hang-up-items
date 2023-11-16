@@ -46,9 +46,9 @@
 
 ## 前言
 
-### 2023.08.28更新列表
+### 2023.11.16更新列表
 
-更改项目的登录地址，有项目无网站登录了
+更新部分项目说明
 
 ## 链接说明
 
@@ -470,13 +470,32 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxyrack-one-click-command
 
 提款方式截图： [1](https://s2.loli.net/2022/08/22/i9lQoICuwTtUzr7.png) [2](https://s2.loli.net/2022/08/22/gaXf8vxisB3Tnby.png) [3](https://s2.loli.net/2022/08/22/8Akq6DljxtiW7G4.png) [4](https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png) [5](https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png)
 
+### repocket
+
+支持：手机端，Win系统，linux的图形界面，Macos系统，linux系统
+
+使用paypal或wise提现
+
+注册链接：https://link.repocket.co/PBaK
+
+**可挂服务器的第三推荐项目！**
+
+自写一键脚本仓库：https://github.com/spiritLHLS/repocket-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-installation/main/repocket.sh -o repocket.sh && chmod +x repocket.sh && bash repocket.sh -m 你的邮箱 -p 你的ApiKey
+```
+
+
 ### packetstream
 
 支持：windows系统，linux
 
 提现到paypal
 
-**可挂服务器的第三推荐项目！(部分云服务器可挂)**
+**可挂服务器的第四推荐项目！(部分云服务器可挂)**
 
 链接：https://packetstream.io/?psr=4Osf
 
@@ -502,7 +521,7 @@ curl -sSL get.docker.com | sh
 
 支持多种提现方式，外币卡或者payeer都是可以的，当然还有加密货币。
 
-**可挂服务器上的第四推荐项目！**
+**可挂服务器上的第五推荐项目！**
 
 链接：https://t.me/peer2profit_app_bot?start=164225539661e2d42426a2f
 
@@ -536,7 +555,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-comma
 
 支持提现方式：paypal
 
-**可挂服务器的第五推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 注册链接(获得1刀初始金)：https://pawns.app?r=usdbonus
 
@@ -560,7 +579,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-i
 
 随时可提现，支持paypal或者亚马逊电子卡提现
 
-**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第七推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 链接：https://earnapp.com/i/euellb5
 
@@ -584,7 +603,7 @@ earnapp uninstall
 
 支持：windows系统，mac，ios，linux，安卓
 
-**可挂服务器的第七推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第八推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 **注意，这家挂机必须百分百确定你的是家宽服务器或者是你直接国内家里的流量可以挂，别的不能挂，挂错的多了会封号！**
 
@@ -604,24 +623,6 @@ earnapp uninstall
 
 ```
 curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
-```
-
-### repocket
-
-支持：手机端，Win系统，linux的图形界面，Macos系统，linux系统
-
-使用paypal提现，暂时平台测试中，后续多平台支持
-
-注册链接：https://link.repocket.co/PBaK
-
-**这个平台疑似有问题，有一个服务器被标记有自动广告行为，谨慎部署，千万别在生产机器上部署！**
-
-自写一键脚本仓库：https://github.com/spiritLHLS/repocket-one-click-command-installation/blob/main/README_zh.md
-
-一键命令：
-
-```
-curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-installation/main/repocket.sh -o repocket.sh && chmod +x repocket.sh && bash repocket.sh -m 你的邮箱 -p 你的ApiKey
 ```
 
 ### bitping
@@ -686,9 +687,9 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command
 
 提现方式：paypal，bitcoin，visa预付卡
 
-日常有使用 油管、谷歌搜索、必应搜索 可以安装，会展示悬浮广告有收益无需点击，不影响正常使用，实测无需国际网络，国内也可以
+日常有使用 油管、谷歌搜索、必应搜索 可以安装，会展示悬浮广告有收益无需点击，不影响正常使用，实测无需国际网络，国内也可以，这个很不错
 
-好像还出了个类似的TAB标签页插件，那个不建议装，它默认给你开两个广告页的标签页，只是徒增你浏览器的内存占用和cookie记录，收益与付出不成正比
+好像还出了个类似的**TAB标签页插件，那个不建议装**，它默认给你开两个广告页的标签页，只是徒增你浏览器的内存占用和cookie记录，收益与付出不成正比
 
 ### 2captcha
 
