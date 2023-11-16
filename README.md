@@ -18,6 +18,7 @@
         * [repocket-谨慎](#repocket)
         * [packetstream挂闲置流量](#packetstream)
         * [peer2profit挂闲置流量](#peer2profit)
+        * [earnfm挂闲置流量](#earnfm)
         * [iproyal-pawns挂闲置流量](#iproyal-pawns)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
@@ -48,7 +49,7 @@
 
 ### 2023.11.16更新列表
 
-更新部分项目说明
+更新部分项目说明，增加一个挂机项目
 
 ## 链接说明
 
@@ -488,7 +489,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxyrack-one-click-command
 curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-installation/main/repocket.sh -o repocket.sh && chmod +x repocket.sh && bash repocket.sh -m 你的邮箱 -p 你的ApiKey
 ```
 
-
 ### packetstream
 
 支持：windows系统，linux
@@ -549,19 +549,41 @@ curl -sSL get.docker.com | sh
 curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-command-installation/main/p.sh -o p.sh && chmod +x p.sh && bash p.sh -m 你的邮箱
 ```
 
+### earnfm
+
+支持：windows系统，linux系统
+
+支持体现方式：paypal，usdt
+
+**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+
+注册链接(获得5刀初始金)：https://earn.fm/ref/JANEAG9H
+
+如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
+
+家中的电脑等个人设备肯定可以挂，挂闲置流量
+
+自写一键脚本仓库：https://github.com/spiritLHLS/earnfm-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/earnfm-one-click-command-installation/main/earnfm.sh -o earnfm.sh && chmod +x earnfm.sh && bash earnfm.sh -m 你的API的Key
+```
+
 ### iproyal-pawns
 
-支持：windows系统，linux
+支持：windows系统，linux系统
 
 支持提现方式：paypal
 
-**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第七推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 注册链接(获得1刀初始金)：https://pawns.app?r=usdbonus
 
 如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
 
-用了一天0.05美元，我这网延迟和带宽不行，如果延迟和带宽好一点的网估计比上面那个收益高一点，不能用梯子挂，裸挂真实ip，挂闲置流量
+用了一天0.05美元，我这网延迟和带宽不行，不能用梯子挂，裸挂真实ip，挂闲置流量
 
 家中的电脑等个人设备肯定可以挂，挂闲置流量
 
@@ -579,7 +601,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-i
 
 随时可提现，支持paypal或者亚马逊电子卡提现
 
-**可挂服务器的第七推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第八推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 链接：https://earnapp.com/i/euellb5
 
@@ -603,7 +625,7 @@ earnapp uninstall
 
 支持：windows系统，mac，ios，linux，安卓
 
-**可挂服务器的第八推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第九推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 **注意，这家挂机必须百分百确定你的是家宽服务器或者是你直接国内家里的流量可以挂，别的不能挂，挂错的多了会封号！**
 
@@ -687,7 +709,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command
 
 提现方式：paypal，bitcoin，visa预付卡
 
-日常有使用 油管、谷歌搜索、必应搜索 可以安装，会展示悬浮广告有收益无需点击，不影响正常使用，实测无需国际网络，国内也可以，这个很不错
+日常有使用 油管、谷歌搜索、必应搜索 可以安装，会展示悬浮广告有收益无需点击，不影响正常使用，实测无需国际网络，**国内也可以，这个很不错**
 
 好像还出了个类似的**TAB标签页插件，那个不建议装**，它默认给你开两个广告页的标签页，只是徒增你浏览器的内存占用和cookie记录，收益与付出不成正比
 
