@@ -181,6 +181,30 @@ AMD的CPU性能强劲，而且不限流量
 
 拉斯维加斯的购买地址：[https://my.frantech.ca/aff.php?aff=5522&pid=1411](https://my.frantech.ca/aff.php?aff=5522&pid=1411)
 
+#### 美国小鸡2(VPS)
+
+美国多位置，但仅推荐洛杉矶地区 - Los Angeles,California (Amd Ryzen 7950x) 
+
+1x AMD Ryzen 3900X,5900x,5950x,7950x CPU Core
+
+15GB NVME STORAGE
+
+1GB RAM
+
+Unmetered Bandwidth
+
+10Gbps ↓ 1Gbps ↑
+
+1 IPv4 + /64 IPv6
+
+Unmanaged
+
+Free offsite backup 
+
+月付3.5美元，首月-50%优惠码：Introductory_Offer
+
+购买链接：[https://www.madcityservers.com/aff.php?aff=25&pid=154](https://www.madcityservers.com/aff.php?aff=25&pid=154)
+
 #### 俄罗斯小机1(VPS)
 
 多位置，但只有香港，DataLine 莫斯科 俄罗斯，Rostelecom 前Adman 新西伯利亚，俄罗斯值得购买，还是CN2线路
@@ -190,26 +214,6 @@ AMD的CPU性能强劲，而且不限流量
 18元一个月，1核0.5G内存5G硬盘(KVM)(随时有)
 
 购买页面：[跳转](https://justhost.ru/zh/services/vps?ref=137779&period=4&cpu=1&ram=512&hdd=5&storage=hdd&ip=0&software=5&location=3&storage_size=5&netbandmb=200&ipv4_count=0&ipv6_count=1&svc_count=1&payment_period=1&cpu_options=none)
-
-#### 美国小鸡2(VPS)
-
-1GB RAM KVM SSD VPS
-
-vCPU：1
-
-内存：1 GB
-
-空间：10 GB SSD
-
-流量：不限 / 月（1Gbps端口）
-
-IPv4：1
-
-年付14美元
-
-性能一般，不推荐洛杉矶地区，网络炸的厉害，推荐非洛杉矶的西海岸其他地区
-
-购买链接：[https://portal.dedipath.com/aff.php?aff=1190&pid=520](https://portal.dedipath.com/aff.php?aff=1190&pid=520)
 
 #### 英国小鸡3(VPS)
 
