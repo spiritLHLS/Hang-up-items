@@ -47,9 +47,9 @@
 
 ## 前言
 
-### 2023.11.16更新列表
+### 2024.01.19更新列表
 
-更新部分项目说明，增加一个挂机项目
+更新部分说明，删除过期资讯
 
 ## 链接说明
 
@@ -173,16 +173,6 @@ https://curl.qcloud.com/MNyiQAB1
 
 #### 美国小鸡1(VPS)
 
-3.5CAD每月(每月18元)带完整面板。
-
-AMD的CPU性能强劲，而且不限流量
-
-1核1G内存20GB的SSD硬盘(KVM)-(这个建议关注频道抢购，没货时不定时补货会监控到)
-
-拉斯维加斯的购买地址：[https://my.frantech.ca/aff.php?aff=5522&pid=1411](https://my.frantech.ca/aff.php?aff=5522&pid=1411)
-
-#### 美国小鸡2(VPS)
-
 美国多位置，但仅推荐洛杉矶地区 - Los Angeles,California (Amd Ryzen 7950x) 
 
 1x AMD Ryzen 3900X,5900x,5950x,7950x CPU Core
@@ -204,6 +194,16 @@ Free offsite backup
 月付3.5美元，首月-50%优惠码：Introductory_Offer
 
 购买链接：[https://www.madcityservers.com/aff.php?aff=25&pid=154](https://www.madcityservers.com/aff.php?aff=25&pid=154)
+
+#### 美国小鸡2(VPS)
+
+每月3.5美元带完整面板。
+
+AMD的CPU性能强劲，而且不限流量
+
+1核1G内存20GB的SSD硬盘(KVM)-(这个建议关注频道抢购，没货时不定时补货会监控到，没货时上面为替代品)
+
+拉斯维加斯的购买地址：[https://my.frantech.ca/aff.php?aff=5522&pid=1411](https://my.frantech.ca/aff.php?aff=5522&pid=1411)
 
 #### 俄罗斯小机1(VPS)
 
