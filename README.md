@@ -17,8 +17,8 @@
         * [proxyrack挂闲置流量](#proxyrack)
         * [repocket-谨慎](#repocket)
         * [packetstream挂闲置流量](#packetstream)
-        * [peer2profit挂闲置流量](#peer2profit)
         * [earnfm挂闲置流量](#earnfm)
+        * [peer2profit挂闲置流量](#peer2profit)
         * [iproyal-pawns挂闲置流量](#iproyal-pawns)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
@@ -47,9 +47,9 @@
 
 ## 前言
 
-### 2024.01.19更新列表
+### 2024.01.26更新列表
 
-更新部分说明，删除过期资讯
+更新部分说明，有的项目适用范围扩展了
 
 ## 链接说明
 
@@ -519,13 +519,33 @@ docker ps -a
 curl -sSL get.docker.com | sh
 ```
 
+### earnfm
+
+支持：windows系统，linux系统
+
+支持体现方式：paypal，usdt
+
+**可挂服务器的第五推荐项目！**
+
+注册链接(获得5刀初始金)：https://earn.fm/ref/JANEAG9H
+
+如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
+
+自写一键脚本仓库：https://github.com/spiritLHLS/earnfm-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/earnfm-one-click-command-installation/main/earnfm.sh -o earnfm.sh && chmod +x earnfm.sh && bash earnfm.sh -m 你的API的Key
+```
+
 ### peer2profit
 
 支持：windows系统，linux，安卓，ios，mac
 
 支持多种提现方式，外币卡或者payeer都是可以的，当然还有加密货币。
 
-**可挂服务器上的第五推荐项目！**
+**可挂服务器上的第六推荐项目！**
 
 链接：https://t.me/peer2profit_app_bot?start=164225539661e2d42426a2f
 
@@ -551,28 +571,6 @@ curl -sSL get.docker.com | sh
 
 ```bash
 curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-command-installation/main/p.sh -o p.sh && chmod +x p.sh && bash p.sh -m 你的邮箱
-```
-
-### earnfm
-
-支持：windows系统，linux系统
-
-支持体现方式：paypal，usdt
-
-**可挂服务器的第六推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
-
-注册链接(获得5刀初始金)：https://earn.fm/ref/JANEAG9H
-
-如果使用的是linux系统，在这里注册后修改下面一键命令的邮箱和密码即可一键安装
-
-家中的电脑等个人设备肯定可以挂，挂闲置流量
-
-自写一键脚本仓库：https://github.com/spiritLHLS/earnfm-one-click-command-installation/blob/main/README_zh.md
-
-一键命令：
-
-```
-curl -L https://raw.githubusercontent.com/spiritLHLS/earnfm-one-click-command-installation/main/earnfm.sh -o earnfm.sh && chmod +x earnfm.sh && bash earnfm.sh -m 你的API的Key
 ```
 
 ### iproyal-pawns
