@@ -14,10 +14,11 @@
 * [挂机和羊毛项目(需要电脑或手机端挂机)](#挂机和薅羊毛项目)
     * [硬核挂机项目合集](#挂机项目合集)
         * [traffmonetizer挂闲置流量](#traffmonetizer)
-        * [proxyrack挂闲置流量](#proxyrack)
         * [repocket-谨慎](#repocket)
         * [packetstream挂闲置流量](#packetstream)
         * [earnfm挂闲置流量](#earnfm)
+        * [mystnodes挂闲置流量](#mystnodes)
+        * [proxyrack挂闲置流量](#proxyrack)
         * [peer2profit挂闲置流量](#peer2profit)
         * [iproyal-pawns挂闲置流量](#iproyal-pawns)
         * [earnapp挂闲置流量](#earnapp)
@@ -47,9 +48,9 @@
 
 ## 前言
 
-### 2024.01.26更新列表
+### 2024.02.01更新列表
 
-更新部分说明，有的项目适用范围扩展了
+更新部分说明，增加一个新挂机项目
 
 ## 链接说明
 
@@ -79,7 +80,7 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 强烈推荐looksup和收奖网，一个回报丰厚一个耗时最少。
 
-2022年了，目前我还在坚持使用的只有收奖网了，其他的耗时多收益低，没那时间了。
+2024年了，目前我还在坚持使用的只有收奖网了，其他的耗时多收益低，没那时间了。
 
 ## 优惠活动及白嫖活动推荐
 
@@ -357,9 +358,7 @@ HD VDS (KVM)
 
 ## 白嫖免费云服务器
 
-### 白嫖免费VPS云服务器
-
-**!!!不要墙内传播!!!**
+### 免费VPS云服务器
 
 仅支持Linux系统，有效期7天，手动续期在第5~7天内，可以一直这样续期
 
@@ -373,9 +372,7 @@ ps:个人使用体验，euserv有法子自动续期，每个月续一次，但�
 
 pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
-### 白嫖免费NAT云服务器
-
-**!!!不要墙内传播!!!**
+### 免费NAT云服务器
 
 仅支持Linux系统，有效期7天，手动续期在第5~7天内，可以一直这样续期
 
@@ -390,12 +387,6 @@ ps:个人使用体验，性能还行，比不上hax。
 pps:别琢磨自动续期了，euserv就是被自动续期搞没的！！！！
 
 **低调使用！！！Euserv就是太多人搞没的！！！**
-
-### 白嫖1TB云硬盘
-
-链接：https://www.euserv.com/en/cloud/backup-hd-1T-se2021.php
-
-只能嫖一年。
 
 ## 网站广告
 
@@ -437,44 +428,6 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/traffmonetizer-one-click-co
 
 注意，该项目提款前不要随意更换提款方式，因为提款方式切换可能会损失掉部分积攒的额度
 
-### proxyrack
-
-支持：windows系统，Linux系统的AMD64架构
-
-**可挂服务器上的第二推荐项目！**
-
-可挂服务器，挂国内也有收益，是个好东西。(但长期不登陆的话好像后台计算收益有问题)
-
-**一天一个IP最低的时候0.02~0.05刀**
-
-这家收益不稳定，如果碰到需求大的日子就起飞，需求低的日子那收益低，每天收益不固定的
-
-平台初创，收益自然高了，人多了可能就低了。
-
-提款请求将在72小时内处理，处理完后你会收到一封邮件，里面选择如何提款，有paypal，一张360天有效期的虚拟银行卡(预付卡)，各种礼品卡。
-
-注册链接(注册送5刀)：https://peer.proxyrack.com/ref/p28h60vn6bq3pznzx4bjuocdwqb5lrlb2tf3fksy
-
-首次提现需要攒够20刀，实际上你需要挂出15刀即可提现，在这里注册后修改下面一键命令最后的```API Key```即可一键安装
-
-自写一键安装脚本仓库：https://github.com/spiritLHLS/proxyrack-one-click-command-installation/blob/main/README_zh.md
-
-一键安装命令：
-
-```
-curl -L https://raw.githubusercontent.com/spiritLHLS/proxyrack-one-click-command-installation/main/proxyrack.sh -o proxyrack.sh && chmod +x proxyrack.sh && bash proxyrack.sh
-```
-
-输入后只需要填写你的```API Key```即可一键安装环境和平台脚本，无交互版本的命令详见对应仓库说明
-
-安装完毕后会打印安装的设备ID和NAME，如果后台不自动录入，此时需要你手动录入到后台
-
-2022.8.22 更新提现方式截图
-
-[邮件截图](https://s2.loli.net/2022/08/22/om3up7g4IiKMDNc.png)
-
-提款方式截图： [1](https://s2.loli.net/2022/08/22/i9lQoICuwTtUzr7.png) [2](https://s2.loli.net/2022/08/22/gaXf8vxisB3Tnby.png) [3](https://s2.loli.net/2022/08/22/8Akq6DljxtiW7G4.png) [4](https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png) [5](https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png)
-
 ### repocket
 
 支持：手机端，Win系统，linux的图形界面，Macos系统，linux系统
@@ -483,7 +436,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/proxyrack-one-click-command
 
 注册链接：https://link.repocket.co/PBaK
 
-**可挂服务器的第三推荐项目！**
+**可挂服务器的第二推荐项目！**
 
 自写一键脚本仓库：https://github.com/spiritLHLS/repocket-one-click-command-installation/blob/main/README_zh.md
 
@@ -499,7 +452,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/repocket-one-click-command-
 
 提现到paypal
 
-**可挂服务器的第四推荐项目！(部分云服务器可挂)**
+**可挂服务器的第三推荐项目！(部分云服务器可挂)**
 
 链接：https://packetstream.io/?psr=4Osf
 
@@ -525,7 +478,7 @@ curl -sSL get.docker.com | sh
 
 支持体现方式：paypal，usdt
 
-**可挂服务器的第五推荐项目！**
+**可挂服务器的第四推荐项目！**
 
 注册链接(获得5刀初始金)：https://earn.fm/ref/JANEAG9H
 
@@ -539,13 +492,61 @@ curl -sSL get.docker.com | sh
 curl -L https://raw.githubusercontent.com/spiritLHLS/earnfm-one-click-command-installation/main/earnfm.sh -o earnfm.sh && chmod +x earnfm.sh && bash earnfm.sh -m 你的API的Key
 ```
 
+### mystnodes
+
+支持：支持docker使用的Linux系统上
+
+**可挂服务器的第五推荐项目！**
+
+注册链接：https://mystnodes.co/?referral_code=qx2oT3x6bxKOXYJ906Ca9m0PKAvk8g3wcEd2o5IJ
+
+安装和使用文档：https://github.com/spiritLHLS/mystnodes/blob/main/README_ZH.md
+
+### proxyrack
+
+支持：windows系统，Linux系统的AMD64架构
+
+**可挂服务器上的第六推荐项目！**
+
+可挂服务器，挂国内也有收益，是个好东西。(但长期不登陆的话好像后台计算收益有问题)
+
+**一天一个IP最低的时候0.02~0.05刀**
+
+这家收益不稳定，如果碰到需求大的日子就起飞，需求低的日子那收益低，每天收益不固定的
+
+平台初创，收益自然高了，人多了可能就低了。
+
+注册链接(注册送5刀)：https://peer.proxyrack.com/ref/p28h60vn6bq3pznzx4bjuocdwqb5lrlb2tf3fksy
+
+官方大半年没维护了，新机器很难装上
+
+首次提现需要攒够20刀，实际上你需要挂出15刀即可提现，在这里注册后修改下面一键命令最后的```API Key```即可一键安装
+
+自写一键安装脚本仓库：https://github.com/spiritLHLS/proxyrack-one-click-command-installation/blob/main/README_zh.md
+
+一键安装命令：
+
+```
+curl -L https://raw.githubusercontent.com/spiritLHLS/proxyrack-one-click-command-installation/main/proxyrack.sh -o proxyrack.sh && chmod +x proxyrack.sh && bash proxyrack.sh
+```
+
+输入后只需要填写你的```API Key```即可一键安装环境和平台脚本，无交互版本的命令详见对应仓库说明
+
+安装完毕后会打印安装的设备ID和NAME，如果后台不自动录入，此时需要你手动录入到后台
+
+2022.8.22 更新提现方式截图
+
+[邮件截图](https://s2.loli.net/2022/08/22/om3up7g4IiKMDNc.png)
+
+提款方式截图： [1](https://s2.loli.net/2022/08/22/i9lQoICuwTtUzr7.png) [2](https://s2.loli.net/2022/08/22/gaXf8vxisB3Tnby.png) [3](https://s2.loli.net/2022/08/22/8Akq6DljxtiW7G4.png) [4](https://s2.loli.net/2022/08/22/ls6kw3DvAi9XTCb.png) [5](https://s2.loli.net/2022/08/22/qPki435lCvoN2Le.png)
+
 ### peer2profit
 
 支持：windows系统，linux，安卓，ios，mac
 
 支持多种提现方式，外币卡或者payeer都是可以的，当然还有加密货币。
 
-**可挂服务器上的第六推荐项目！**
+**可挂服务器上的第七推荐项目！**
 
 链接：https://t.me/peer2profit_app_bot?start=164225539661e2d42426a2f
 
@@ -579,7 +580,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/peer2profit-one-click-comma
 
 支持提现方式：paypal
 
-**可挂服务器的第七推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第八推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 注册链接(获得1刀初始金)：https://pawns.app?r=usdbonus
 
@@ -603,7 +604,7 @@ curl -L https://raw.githubusercontent.com/spiritLHLS/iproyal-one-click-command-i
 
 随时可提现，支持paypal或者亚马逊电子卡提现
 
-**可挂服务器的第八推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第九推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 链接：https://earnapp.com/i/euellb5
 
@@ -627,7 +628,7 @@ earnapp uninstall
 
 支持：windows系统，mac，ios，linux，安卓
 
-**可挂服务器的第九推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
+**可挂服务器的第十推荐项目！(部分云服务器可挂，因为是家宽IP，部分服务器不可以)**
 
 **注意，这家挂机必须百分百确定你的是家宽服务器或者是你直接国内家里的流量可以挂，别的不能挂，挂错的多了会封号！**
 
