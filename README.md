@@ -23,6 +23,7 @@
         * [iproyal-pawns挂闲置流量](#iproyal-pawns)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
+        * [speedshare挂闲置流量](#speedshare)
         * [bitping-谨慎](#bitping)
         * [proxylite-最好别碰](#proxylite)
         * [addslice浏览器插件挂机](#addslice浏览器插件挂机)
@@ -48,9 +49,9 @@
 
 ## 前言
 
-### 2024.02.01更新列表
+### 2024.02.22更新列表
 
-更新部分说明，增加一个新挂机项目
+增加一个新挂机项目
 
 ## 链接说明
 
@@ -648,6 +649,32 @@ earnapp uninstall
 
 ```
 curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
+```
+
+### speedshare
+
+支持：win，linux
+
+注册地址：https://speedshare.app/?ref=spiritlhl
+
+可挂服务器上，对IP类型有要求，仅可挂家庭带宽，不支持数据中心流量。
+
+该项目的流量将被用于创建公共代理使用，存在未知风险，轻易勿要触碰。
+
+win下载地址：[点我下载](https://api.speedshare.app/download/windows/installer/amd64)
+
+linux安装：
+
+amd64/x86_64架构的
+
+```
+wget https://api.speedshare.app/download/linux/cli/amd64 && chmod 777 amd64 && nohup ./amd64 connect --pairing_code 填你的key
+```
+
+amr64/aarch64架构的
+
+```
+wget https://api.speedshare.app/download/linux/cli/arm64 && chmod 777 arm64 && nohup ./arm64 connect --pairing_code 填你的key
 ```
 
 ### bitping
