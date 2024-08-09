@@ -23,6 +23,7 @@
         * [iproyal-pawns挂闲置流量](#iproyal-pawns)
         * [earnapp挂闲置流量](#earnapp)
         * [honeygain挂闲置流量](#honeygain)
+        * [packetshare挂闲置流量](#packetshare)
         * [speedshare挂闲置流量](#speedshare)
         * [bitping-谨慎](#bitping)
         * [proxylite-最好别碰](#proxylite)
@@ -49,9 +50,9 @@
 
 ## 前言
 
-### 2024.06.17更新列表
+### 2024.08.09更新列表
 
-更新一个免费服务器来源
+新增一个挂机项目。
 
 ## 链接说明
 
@@ -653,8 +654,25 @@ earnapp uninstall
 
 一键命令：
 
-```
+```shell
 curl -L https://raw.githubusercontent.com/spiritLHLS/honeygain-one-click-command-installation/main/hg.sh -o hg.sh && chmod +x hg.sh && bash hg.sh -m 你的邮箱 -p 你的密码
+```
+
+### packetshare
+
+支持：win，macos，linux，安卓
+
+注册地址：https://www.packetshare.io/?code=D56687E3945939C7
+
+可挂服务器上，对IP类型有要求，仅支持家庭带宽流量，每GB值0.1美元，其他说明见下面仓库说明
+
+自写一键脚本仓库：https://github.com/spiritLHLS/packetshare-one-click-command-installation/blob/main/README_zh.md
+
+一键命令：
+
+```shell
+curl -L https://raw.githubusercontent.com/spiritLHLS/packetshare-one-click-command-installation/main/packetshare.sh -o packetshare.sh && chmod +x packetshare.sh
+bash packetshare.sh -m 账户邮箱 -p 账户密码
 ```
 
 ### speedshare
