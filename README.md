@@ -1,5 +1,7 @@
 # 个人收集的一些资源
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=480174964" height="20">](https://api.gitsponsors.com/api/badge/link?p=t+FE5EqKuYufmVRfOZVw2MuqGV3gb23OsUrdctVzrQoV08jpL8FuDxENYqHrh6MZ/iNdxgXVaPKp2GFh8R7Md2KDiFB65SEUqMjveQkaMrG8Z7r2zOU5Dbs5X8lIBugDfPb//XrKFoJ7AJMxaYatPw==)
+
 原始账号备份号，懂的都懂。
 
 # 资源目录
